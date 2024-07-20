@@ -1,0 +1,1131 @@
+<!DOCTYPE html>
+<!-- saved from url=(0086)https://www.vectorstock.com/royalty-free-vector/violet-color-big-heart-vector-21946859 -->
+<html lang="en" class="webp js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	
+	<link rel="preconnect" href="https://cdn.vectorstock.com/">
+	<link rel="preconnect" href="https://www.googletagmanager.com/">
+	<link rel="preconnect" href="https://www.google-analytics.com/">
+	<link rel="alternate" hreflang="en" href="https://www.vectorstock.com/royalty-free-vector/violet-color-big-heart-vector-21946859">
+	<link rel="alternate" hreflang="de" href="https://www.vectorstock.com/de/lizenzfreie-vektor/violet-color-big-heart-vektor-21946859">
+	<link rel="alternate" hreflang="x-default" href="https://www.vectorstock.com/royalty-free-vector/violet-color-big-heart-vector-21946859">
+	<meta name="theme-color" content="#101122">
+	<script type="text/javascript" async="" src="./select2_files/js" nonce="s+Qq6FnI7qPR7epcXeK/jF3ButKXVpKyQU1C2+LsBmQ="></script><script type="text/javascript" async="" src="./select2_files/analytics.js" nonce="s+Qq6FnI7qPR7epcXeK/jF3ButKXVpKyQU1C2+LsBmQ="></script><script type="text/javascript" async="" src="./select2_files/js(1)" nonce="s+Qq6FnI7qPR7epcXeK/jF3ButKXVpKyQU1C2+LsBmQ="></script><script async="" src="./select2_files/profitwell.js"></script><script defer="" src="./select2_files/gtm.js" nonce="s+Qq6FnI7qPR7epcXeK/jF3ButKXVpKyQU1C2+LsBmQ="></script><script type="text/javascript" nonce="s+Qq6FnI7qPR7epcXeK/jF3ButKXVpKyQU1C2+LsBmQ=">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"02e09611df",applicationID:"156179534"};;/*! For license information please see nr-loader-rum-1.262.0.min.js.LICENSE.txt */
+(()=>{var e,t,r={2983:(e,t,r)=>{"use strict";r.d(t,{D0:()=>m,gD:()=>y,Vp:()=>s,fr:()=>S,jD:()=>j,hR:()=>x,xN:()=>b,x1:()=>c,aN:()=>R,V:()=>I});var n=r(384),i=r(7864);const o={beacon:n.NT.beacon,errorBeacon:n.NT.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0},a={};function s(e){if(!e)throw new Error("All info objects require an agent identifier!");if(!a[e])throw new Error("Info for ".concat(e," was never set"));return a[e]}function c(e,t){if(!e)throw new Error("All info objects require an agent identifier!");a[e]=(0,i.a)(t,o);const r=(0,n.nY)(e);r&&(r.info=a[e])}var u=r(993);const l=e=>{if(!e||"string"!=typeof e)return!1;try{document.createDocumentFragment().querySelector(e)}catch{return!1}return!0};var d=r(2614),f=r(944);const g="[data-nr-mask]",p=()=>{const e={mask_selector:"*",block_selector:"[data-nr-block]",mask_input_options:{color:!1,date:!1,"datetime-local":!1,email:!1,month:!1,number:!1,range:!1,search:!1,tel:!1,text:!1,time:!1,url:!1,week:!1,textarea:!1,select:!1,password:!0}};return{ajax:{deny_list:void 0,block_internal:!0,enabled:!0,harvestTimeSeconds:10,autoStart:!0},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},feature_flags:[],harvest:{tooManyRequestsDelay:60},jserrors:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},logging:{enabled:!0,harvestTimeSeconds:10,autoStart:!0,level:u.p_.INFO},metrics:{enabled:!0,autoStart:!0},obfuscate:void 0,page_action:{enabled:!0,harvestTimeSeconds:30,autoStart:!0},page_view_event:{enabled:!0,autoStart:!0},page_view_timing:{enabled:!0,harvestTimeSeconds:30,long_task:!1,autoStart:!0},privacy:{cookies_enabled:!0},proxy:{assets:void 0,beacon:void 0},session:{expiresMs:d.wk,inactiveMs:d.BB},session_replay:{autoStart:!0,enabled:!1,harvestTimeSeconds:60,preload:!1,sampling_rate:10,error_sampling_rate:100,collect_fonts:!1,inline_images:!1,inline_stylesheet:!0,mask_all_inputs:!0,get mask_text_selector(){return e.mask_selector},set mask_text_selector(t){l(t)?e.mask_selector="".concat(t,",").concat(g):""===t||null===t?e.mask_selector=g:(0,f.R)("An invalid session_replay.mask_selector was provided. '*' will be used.",t)},get block_class(){return"nr-block"},get ignore_class(){return"nr-ignore"},get mask_text_class(){return"nr-mask"},get block_selector(){return e.block_selector},set block_selector(t){l(t)?e.block_selector+=",".concat(t):""!==t&&(0,f.R)("An invalid session_replay.block_selector was provided and will not be used",t)},get mask_input_options(){return e.mask_input_options},set mask_input_options(t){t&&"object"==typeof t?e.mask_input_options={...t,password:!0}:(0,f.R)("An invalid session_replay.mask_input_option was provided and will not be used",t)}},session_trace:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},soft_navigations:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},spa:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},ssl:void 0}},h={},v="All configuration objects require an agent identifier!";function m(e){if(!e)throw new Error(v);if(!h[e])throw new Error("Configuration for ".concat(e," was never set"));return h[e]}function b(e,t){if(!e)throw new Error(v);h[e]=(0,i.a)(t,p());const r=(0,n.nY)(e);r&&(r.init=h[e])}function y(e,t){if(!e)throw new Error(v);var r=m(e);if(r){for(var n=t.split("."),i=0;i<n.length-1;i++)if("object"!=typeof(r=r[n[i]]))return;r=r[n[n.length-1]]}return r}const w={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0},A={};function R(e,t){if(!e)throw new Error("All loader-config objects require an agent identifier!");A[e]=(0,i.a)(t,w);const r=(0,n.nY)(e);r&&(r.loader_config=A[e])}const x=(0,n.dV)().o;var _=r(6154),E=r(9324);const N={buildEnv:E.F3,distMethod:E.Xs,version:E.xv,originTime:_.WN},T={customTransaction:void 0,disabled:!1,isolatedBacklog:!1,loaderType:void 0,maxBytes:3e4,onerror:void 0,origin:""+_.gm.location,ptid:void 0,releaseIds:{},appMetadata:{},session:void 0,denyList:void 0,harvestCount:0,timeKeeper:void 0},k={};function S(e){if(!e)throw new Error("All runtime objects require an agent identifier!");if(!k[e])throw new Error("Runtime for ".concat(e," was never set"));return k[e]}function I(e,t){if(!e)throw new Error("All runtime objects require an agent identifier!");k[e]={...(0,i.a)(t,T),...N};const r=(0,n.nY)(e);r&&(r.runtime=k[e])}function j(e){return function(e){try{const t=s(e);return!!t.licenseKey&&!!t.errorBeacon&&!!t.applicationID}catch(e){return!1}}(e)}},7864:(e,t,r)=>{"use strict";r.d(t,{a:()=>i});var n=r(944);function i(e,t){try{if(!e||"object"!=typeof e)return(0,n.R)("Setting a Configurable requires an object as input");if(!t||"object"!=typeof t)return(0,n.R)("Setting a Configurable requires a model to set its initial properties");const r=Object.create(Object.getPrototypeOf(t),Object.getOwnPropertyDescriptors(t)),o=0===Object.keys(r).length?e:r;for(let a in o)if(void 0!==e[a])try{if(null===e[a]){r[a]=null;continue}Array.isArray(e[a])&&Array.isArray(t[a])?r[a]=Array.from(new Set([...e[a],...t[a]])):"object"==typeof e[a]&&"object"==typeof t[a]?r[a]=i(e[a],t[a]):r[a]=e[a]}catch(e){(0,n.R)("An error occurred while setting a property of a Configurable",e)}return r}catch(e){(0,n.R)("An error occured while setting a Configurable",e)}}},9324:(e,t,r)=>{"use strict";r.d(t,{F3:()=>i,Xs:()=>o,xv:()=>n});const n="1.262.0",i="PROD",o="CDN"},6154:(e,t,r)=>{"use strict";r.d(t,{OF:()=>c,RI:()=>i,Vr:()=>d,WN:()=>f,bv:()=>o,gm:()=>a,lT:()=>l,mw:()=>s,sb:()=>u});var n=r(1863);const i="undefined"!=typeof window&&!!window.document,o="undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self.navigator instanceof WorkerNavigator||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis.navigator instanceof WorkerNavigator),a=i?window:"undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis),s=Boolean("hidden"===a?.document?.visibilityState),c=/iPad|iPhone|iPod/.test(a.navigator?.userAgent),u=c&&"undefined"==typeof SharedWorker,l=((()=>{const e=a.navigator?.userAgent?.match(/Firefox[/\s](\d+\.\d+)/);Array.isArray(e)&&e.length>=2&&e[1]})(),Boolean(i&&window.document.documentMode)),d=!!a.navigator?.sendBeacon,f=Date.now()-(0,n.t)()},4777:(e,t,r)=>{"use strict";r.d(t,{J:()=>o});var n=r(944);const i={agentIdentifier:"",ee:void 0};class o{constructor(e){try{if("object"!=typeof e)return(0,n.R)("shared context requires an object as input");this.sharedContext={},Object.assign(this.sharedContext,i),Object.entries(e).forEach((e=>{let[t,r]=e;Object.keys(i).includes(t)&&(this.sharedContext[t]=r)}))}catch(e){(0,n.R)("An error occurred while setting SharedContext",e)}}}},1687:(e,t,r)=>{"use strict";r.d(t,{Ak:()=>c,Ze:()=>d,x3:()=>u});var n=r(7836),i=r(1478),o=r(3606),a=r(860);const s={};function c(e,t){const r={staged:!1,priority:a.P[t]||0};l(e),s[e].get(t)||s[e].set(t,r)}function u(e,t){e&&s[e]&&(s[e].get(t)&&s[e].delete(t),g(e,t,!1),s[e].size&&f(e))}function l(e){if(!e)throw new Error("agentIdentifier required");s[e]||(s[e]=new Map)}function d(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:"",t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:"feature",r=arguments.length>2&&void 0!==arguments[2]&&arguments[2];if(l(e),!e||!s[e].get(t)||r)return g(e,t);s[e].get(t).staged=!0,f(e)}function f(e){const t=Array.from(s[e]);t.every((e=>{let[t,r]=e;return r.staged}))&&(t.sort(((e,t)=>e[1].priority-t[1].priority)),t.forEach((t=>{let[r]=t;s[e].delete(r),g(e,r)})))}function g(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];const a=e?n.ee.get(e):n.ee,s=o.i.handlers;if(a.backlog&&s){if(r){const e=a.backlog[t],r=s[t];if(r){for(let t=0;e&&t<e.length;++t)p(e[t],r);(0,i.$)(r,(function(e,t){(0,i.$)(t,(function(t,r){r[0].on(e,r[1])}))}))}}a.isolatedBacklog||delete s[t],a.backlog[t]=null,a.emit("drain-"+t,[])}}function p(e,t){var r=e[1];(0,i.$)(t[r],(function(t,r){var n=e[0];if(r[0]===n){var i=r[1],o=e[3],a=e[2];i.apply(o,a)}}))}},7836:(e,t,r)=>{"use strict";r.d(t,{P:()=>c,ee:()=>u});var n=r(384),i=r(8990),o=r(2983),a=r(2646),s=r(5607);const c="nr@context:".concat(s.W),u=function e(t,r){var n={},s={},l={},d=!1;try{d=16===r.length&&(0,o.fr)(r).isolatedBacklog}catch(e){}var f={on:p,addEventListener:p,removeEventListener:function(e,t){var r=n[e];if(!r)return;for(var i=0;i<r.length;i++)r[i]===t&&r.splice(i,1)},emit:function(e,r,n,i,o){!1!==o&&(o=!0);if(u.aborted&&!i)return;t&&o&&t.emit(e,r,n);for(var a=g(n),c=h(e),l=c.length,d=0;d<l;d++)c[d].apply(a,r);var p=m()[s[e]];p&&p.push([f,e,r,a]);return a},get:v,listeners:h,context:g,buffer:function(e,t){const r=m();if(t=t||"feature",f.aborted)return;Object.entries(e||{}).forEach((e=>{let[n,i]=e;s[i]=t,t in r||(r[t]=[])}))},abort:function(){f._aborted=!0,Object.keys(f.backlog).forEach((e=>{delete f.backlog[e]}))},isBuffering:function(e){return!!m()[s[e]]},debugId:r,backlog:d?{}:t&&"object"==typeof t.backlog?t.backlog:{},isolatedBacklog:d};return Object.defineProperty(f,"aborted",{get:()=>{let e=f._aborted||!1;return e||(t&&(e=t.aborted),e)}}),f;function g(e){return e&&e instanceof a.y?e:e?(0,i.I)(e,c,(()=>new a.y(c))):new a.y(c)}function p(e,t){n[e]=h(e).concat(t)}function h(e){return n[e]||[]}function v(t){return l[t]=l[t]||e(f,t)}function m(){return f.backlog}}(void 0,"globalEE"),l=(0,n.Zm)();l.ee||(l.ee=u)},2646:(e,t,r)=>{"use strict";r.d(t,{y:()=>n});class n{constructor(e){this.contextId=e}}},9908:(e,t,r)=>{"use strict";r.d(t,{d:()=>n,p:()=>i});var n=r(7836).ee.get("handle");function i(e,t,r,i,o){o?(o.buffer([e],i),o.emit(e,t,r)):(n.buffer([e],i),n.emit(e,t,r))}},3606:(e,t,r)=>{"use strict";r.d(t,{i:()=>o});var n=r(9908);o.on=a;var i=o.handlers={};function o(e,t,r,o){a(o||n.d,i,e,t,r)}function a(e,t,r,i,o){o||(o="feature"),e||(e=n.d);var a=t[o]=t[o]||{};(a[r]=a[r]||[]).push([e,i])}},3878:(e,t,r)=>{"use strict";r.d(t,{DD:()=>c,jT:()=>a,sp:()=>s});var n=r(6154);let i=!1,o=!1;try{const e={get passive(){return i=!0,!1},get signal(){return o=!0,!1}};n.gm.addEventListener("test",null,e),n.gm.removeEventListener("test",null,e)}catch(e){}function a(e,t){return i||o?{capture:!!e,passive:i,signal:t}:!!e}function s(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2],n=arguments.length>3?arguments[3]:void 0;window.addEventListener(e,t,a(r,n))}function c(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2],n=arguments.length>3?arguments[3]:void 0;document.addEventListener(e,t,a(r,n))}},5607:(e,t,r)=>{"use strict";r.d(t,{W:()=>n});const n=(0,r(9566).bz)()},9566:(e,t,r)=>{"use strict";r.d(t,{LA:()=>s,bz:()=>a});var n=r(6154);const i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx";function o(e,t){return e?15&e[t]:16*Math.random()|0}function a(){const e=n.gm?.crypto||n.gm?.msCrypto;let t,r=0;return e&&e.getRandomValues&&(t=e.getRandomValues(new Uint8Array(30))),i.split("").map((e=>"x"===e?o(t,r++).toString(16):"y"===e?(3&o()|8).toString(16):e)).join("")}function s(e){const t=n.gm?.crypto||n.gm?.msCrypto;let r,i=0;t&&t.getRandomValues&&(r=t.getRandomValues(new Uint8Array(e)));const a=[];for(var s=0;s<e;s++)a.push(o(r,i++).toString(16));return a.join("")}},2614:(e,t,r)=>{"use strict";r.d(t,{BB:()=>a,H3:()=>n,g:()=>u,iL:()=>c,tS:()=>s,uh:()=>i,wk:()=>o});const n="NRBA",i="SESSION",o=144e5,a=18e5,s={STARTED:"session-started",PAUSE:"session-pause",RESET:"session-reset",RESUME:"session-resume",UPDATE:"session-update"},c={SAME_TAB:"same-tab",CROSS_TAB:"cross-tab"},u={OFF:0,FULL:1,ERROR:2}},1863:(e,t,r)=>{"use strict";function n(){return Math.floor(performance.now())}r.d(t,{t:()=>n})},944:(e,t,r)=>{"use strict";function n(e,t){"function"==typeof console.warn&&(console.warn("New Relic: ".concat(e)),t&&console.warn(t))}r.d(t,{R:()=>n})},5284:(e,t,r)=>{"use strict";r.d(t,{t:()=>c,B:()=>s});var n=r(7836),i=r(6154);const o="newrelic";const a=new Set,s={};function c(e,t){const r=n.ee.get(t);s[t]??={},e&&"object"==typeof e&&(a.has(t)||(r.emit("rumresp",[e]),s[t]=e,a.add(t),function(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};try{i.gm.dispatchEvent(new CustomEvent(o,{detail:e}))}catch(e){}}({loaded:!0})))}},8990:(e,t,r)=>{"use strict";r.d(t,{I:()=>i});var n=Object.prototype.hasOwnProperty;function i(e,t,r){if(n.call(e,t))return e[t];var i=r();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:i,writable:!0,enumerable:!1}),i}catch(e){}return e[t]=i,i}},6389:(e,t,r)=>{"use strict";function n(e){var t=this;let r=arguments.length>1&&void 0!==arguments[1]?arguments[1]:500,n=arguments.length>2&&void 0!==arguments[2]?arguments[2]:{};const i=n?.leading||!1;let o;return function(){for(var n=arguments.length,a=new Array(n),s=0;s<n;s++)a[s]=arguments[s];i&&void 0===o&&(e.apply(t,a),o=setTimeout((()=>{o=clearTimeout(o)}),r)),i||(clearTimeout(o),o=setTimeout((()=>{e.apply(t,a)}),r))}}function i(e){var t=this;let r=!1;return function(){if(!r){r=!0;for(var n=arguments.length,i=new Array(n),o=0;o<n;o++)i[o]=arguments[o];e.apply(t,i)}}}r.d(t,{J:()=>i,s:()=>n})},1478:(e,t,r)=>{"use strict";r.d(t,{$:()=>n});const n=(e,t)=>Object.entries(e||{}).map((e=>{let[r,n]=e;return t(r,n)}))},3304:(e,t,r)=>{"use strict";r.d(t,{A:()=>o});var n=r(7836);const i=()=>{const e=new WeakSet;return(t,r)=>{if("object"==typeof r&&null!==r){if(e.has(r))return;e.add(r)}return r}};function o(e){try{return JSON.stringify(e,i())}catch(e){try{n.ee.emit("internal-error",[e])}catch(e){}}}},5289:(e,t,r)=>{"use strict";r.d(t,{GG:()=>o,sB:()=>a});var n=r(3878);function i(){return"undefined"==typeof document||"complete"===document.readyState}function o(e,t){if(i())return e();(0,n.sp)("load",e,t)}function a(e){if(i())return e();(0,n.DD)("DOMContentLoaded",e)}},384:(e,t,r)=>{"use strict";r.d(t,{NT:()=>o,US:()=>l,Zm:()=>a,bQ:()=>c,dV:()=>s,nY:()=>u,pV:()=>d});var n=r(6154),i=r(1863);const o={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function a(){return n.gm.NREUM||(n.gm.NREUM={}),void 0===n.gm.newrelic&&(n.gm.newrelic=n.gm.NREUM),n.gm.NREUM}function s(){let e=a();return e.o||(e.o={ST:n.gm.setTimeout,SI:n.gm.setImmediate,CT:n.gm.clearTimeout,XHR:n.gm.XMLHttpRequest,REQ:n.gm.Request,EV:n.gm.Event,PR:n.gm.Promise,MO:n.gm.MutationObserver,FETCH:n.gm.fetch}),e}function c(e,t){let r=a();r.initializedAgents??={},t.initializedAt={ms:(0,i.t)(),date:new Date},r.initializedAgents[e]=t}function u(e){let t=a();return t.initializedAgents?.[e]}function l(e,t){a()[e]=t}function d(){return function(){let e=a();const t=e.info||{};e.info={beacon:o.beacon,errorBeacon:o.errorBeacon,...t}}(),function(){let e=a();const t=e.init||{};e.init={...t}}(),s(),function(){let e=a();const t=e.loader_config||{};e.loader_config={...t}}(),a()}},2843:(e,t,r)=>{"use strict";r.d(t,{u:()=>i});var n=r(3878);function i(e){let t=arguments.length>1&&void 0!==arguments[1]&&arguments[1],r=arguments.length>2?arguments[2]:void 0,i=arguments.length>3?arguments[3]:void 0;(0,n.DD)("visibilitychange",(function(){if(t)return void("hidden"===document.visibilityState&&e());e(document.visibilityState)}),r,i)}},3434:(e,t,r)=>{"use strict";r.d(t,{YM:()=>c});var n=r(7836),i=r(5607);const o="nr@original:".concat(i.W);var a=Object.prototype.hasOwnProperty,s=!1;function c(e,t){return e||(e=n.ee),r.inPlace=function(e,t,n,i,o){n||(n="");const a="-"===n.charAt(0);for(let s=0;s<t.length;s++){const c=t[s],u=e[c];l(u)||(e[c]=r(u,a?c+n:n,i,c,o))}},r.flag=o,r;function r(t,r,n,s,c){return l(t)?t:(r||(r=""),nrWrapper[o]=t,function(e,t,r){if(Object.defineProperty&&Object.keys)try{return Object.keys(e).forEach((function(r){Object.defineProperty(t,r,{get:function(){return e[r]},set:function(t){return e[r]=t,t}})})),t}catch(e){u([e],r)}for(var n in e)a.call(e,n)&&(t[n]=e[n])}(t,nrWrapper,e),nrWrapper);function nrWrapper(){var o,a,l,d;try{a=this,o=[...arguments],l="function"==typeof n?n(o,a):n||{}}catch(t){u([t,"",[o,a,s],l],e)}i(r+"start",[o,a,s],l,c);try{return d=t.apply(a,o)}catch(e){throw i(r+"err",[o,a,e],l,c),e}finally{i(r+"end",[o,a,d],l,c)}}}function i(r,n,i,o){if(!s||t){var a=s;s=!0;try{e.emit(r,n,i,t,o)}catch(t){u([t,r,n,i],e)}s=a}}}function u(e,t){t||(t=n.ee);try{t.emit("internal-error",e)}catch(e){}}function l(e){return!(e&&"function"==typeof e&&e.apply&&!e[o])}},993:(e,t,r)=>{"use strict";r.d(t,{ET:()=>o,bu:()=>a,p_:()=>i});var n=r(860);const i={ERROR:"ERROR",WARN:"WARN",INFO:"INFO",DEBUG:"DEBUG",TRACE:"TRACE"},o="log",a=(n.K.logging,"failed to wrap logger: ")},3969:(e,t,r)=>{"use strict";r.d(t,{TZ:()=>n,XG:()=>s,rs:()=>i,xV:()=>a,z_:()=>o});const n=r(860).K.metrics,i="sm",o="cm",a="storeSupportabilityMetrics",s="storeEventMetrics"},6630:(e,t,r)=>{"use strict";r.d(t,{T:()=>n});const n=r(860).K.pageViewEvent},782:(e,t,r)=>{"use strict";r.d(t,{T:()=>n});const n=r(860).K.pageViewTiming},6344:(e,t,r)=>{"use strict";r.d(t,{G4:()=>i});var n=r(2614);r(860).K.sessionReplay;const i={RECORD:"recordReplay",PAUSE:"pauseReplay",REPLAY_RUNNING:"replayRunning",ERROR_DURING_REPLAY:"errorDuringReplay"};n.g.ERROR,n.g.FULL,n.g.OFF},4234:(e,t,r)=>{"use strict";r.d(t,{W:()=>i});var n=r(7836);class i{constructor(e,t,r){this.agentIdentifier=e,this.aggregator=t,this.ee=n.ee.get(e),this.featureName=r,this.blocked=!1}}},2266:(e,t,r)=>{"use strict";r.d(t,{j:()=>k});var n=r(860),i=r(2983),o=r(9908),a=r(7836),s=r(1687),c=r(5289),u=r(6154),l=r(944),d=r(3969),f=r(384),g=r(6344);const p=["setErrorHandler","finished","addToTrace","addRelease","addPageAction","setCurrentRouteName","setPageViewName","setCustomAttribute","interaction","noticeError","setUserId","setApplicationVersion","start",g.G4.RECORD,g.G4.PAUSE,"log","wrapLogger"],h=["setErrorHandler","finished","addToTrace","addRelease"];var v=r(1863),m=r(2614),b=r(993);var y=r(2646),w=r(3434);function A(e,t,r,n){if("object"!=typeof t||!t||"string"!=typeof r||!r||"function"!=typeof t[r])return(0,l.R)(b.bu+"invalid argument(s)");const i=function(e){return(e||a.ee).get("logger")}(e),o=(0,w.YM)(i),s=new y.y(a.P);return s.level=n.level,s.customAttributes=n.customAttributes,o.inPlace(t,[r],"wrap-logger-",s),i}function R(){const e=(0,f.pV)();p.forEach((t=>{e[t]=function(){for(var r=arguments.length,n=new Array(r),i=0;i<r;i++)n[i]=arguments[i];return function(t){for(var r=arguments.length,n=new Array(r>1?r-1:0),i=1;i<r;i++)n[i-1]=arguments[i];let o=[];return Object.values(e.initializedAgents).forEach((e=>{e&&e.api?e.exposed&&e.api[t]&&o.push(e.api[t](...n)):(0,l.R)("Call to api '".concat(t,"' made before agent fully initialized."))})),o.length>1?o:o[0]}(t,...n)}}))}const x={};function _(e,t){let f=arguments.length>2&&void 0!==arguments[2]&&arguments[2];t||(0,s.Ak)(e,"api");const p={};var y=a.ee.get(e),w=y.get("tracer");x[e]=m.g.OFF,y.on(g.G4.REPLAY_RUNNING,(t=>{x[e]=t}));var R="api-",_=R+"ixn-";function E(t,r,n,o){const a=(0,i.Vp)(e);return null===r?delete a.jsAttributes[t]:(0,i.x1)(e,{...a,jsAttributes:{...a.jsAttributes,[t]:r}}),k(R,n,!0,o||null===r?"session":void 0)(t,r)}function N(){}p.log=function(e){let{customAttributes:t={},level:r=b.p_.INFO}=arguments.length>1&&void 0!==arguments[1]?arguments[1]:{};!function(e,t){let r=arguments.length>2&&void 0!==arguments[2]?arguments[2]:{},i=arguments.length>3&&void 0!==arguments[3]?arguments[3]:b.p_.INFO;(0,o.p)(d.xV,["API/logging/".concat(i.toLowerCase(),"/called")],void 0,n.K.metrics,e),(0,o.p)(b.ET,[(0,v.t)(),t,r,i],void 0,n.K.logging,e)}(y,e,t,r)},p.wrapLogger=function(e,t){let{customAttributes:r={},level:n=b.p_.INFO}=arguments.length>2&&void 0!==arguments[2]?arguments[2]:{};A(y,e,t,{customAttributes:r,level:n})},h.forEach((e=>{p[e]=k(R,e,!0,"api")})),p.addPageAction=k(R,"addPageAction",!0,n.K.pageAction),p.setPageViewName=function(t,r){if("string"==typeof t)return"/"!==t.charAt(0)&&(t="/"+t),(0,i.fr)(e).customTransaction=(r||"http://custom.transaction")+t,k(R,"setPageViewName",!0)()},p.setCustomAttribute=function(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2];if("string"==typeof e){if(["string","number","boolean"].includes(typeof t)||null===t)return E(e,t,"setCustomAttribute",r);(0,l.R)("Failed to execute setCustomAttribute.\nNon-null value must be a string, number or boolean type, but a type of <".concat(typeof t,"> was provided."))}else(0,l.R)("Failed to execute setCustomAttribute.\nName must be a string type, but a type of <".concat(typeof e,"> was provided."))},p.setUserId=function(e){if("string"==typeof e||null===e)return E("enduser.id",e,"setUserId",!0);(0,l.R)("Failed to execute setUserId.\nNon-null value must be a string type, but a type of <".concat(typeof e,"> was provided."))},p.setApplicationVersion=function(e){if("string"==typeof e||null===e)return E("application.version",e,"setApplicationVersion",!1);(0,l.R)("Failed to execute setApplicationVersion. Expected <String | null>, but got <".concat(typeof e,">."))},p.start=()=>{try{(0,o.p)(d.xV,["API/start/called"],void 0,n.K.metrics,y),y.emit("manual-start-all")}catch(e){(0,l.R)("An unexpected issue occurred",e)}},p[g.G4.RECORD]=function(){(0,o.p)(d.xV,["API/recordReplay/called"],void 0,n.K.metrics,y),(0,o.p)(g.G4.RECORD,[],void 0,n.K.sessionReplay,y)},p[g.G4.PAUSE]=function(){(0,o.p)(d.xV,["API/pauseReplay/called"],void 0,n.K.metrics,y),(0,o.p)(g.G4.PAUSE,[],void 0,n.K.sessionReplay,y)},p.interaction=function(e){return(new N).get("object"==typeof e?e:{})};const T=N.prototype={createTracer:function(e,t){var r={},i=this,a="function"==typeof t;return(0,o.p)(d.xV,["API/createTracer/called"],void 0,n.K.metrics,y),f||(0,o.p)(_+"tracer",[(0,v.t)(),e,r],i,n.K.spa,y),function(){if(w.emit((a?"":"no-")+"fn-start",[(0,v.t)(),i,a],r),a)try{return t.apply(this,arguments)}catch(e){const t="string"==typeof e?new Error(e):e;throw w.emit("fn-err",[arguments,this,t],r),t}finally{w.emit("fn-end",[(0,v.t)()],r)}}}};function k(e,t,r,i){return function(){return(0,o.p)(d.xV,["API/"+t+"/called"],void 0,n.K.metrics,y),i&&(0,o.p)(e+t,[(0,v.t)(),...arguments],r?null:this,i,y),r?void 0:this}}function S(){r.e(296).then(r.bind(r,8778)).then((t=>{let{setAPI:r}=t;r(e),(0,s.Ze)(e,"api")})).catch((e=>{(0,l.R)("Downloading runtime APIs failed...",e),y.abort()}))}return["actionText","setName","setAttribute","save","ignore","onEnd","getContext","end","get"].forEach((e=>{T[e]=k(_,e,void 0,f?n.K.softNav:n.K.spa)})),p.setCurrentRouteName=f?k(_,"routeName",void 0,n.K.softNav):k(R,"routeName",!0,n.K.spa),p.noticeError=function(t,r){"string"==typeof t&&(t=new Error(t)),(0,o.p)(d.xV,["API/noticeError/called"],void 0,n.K.metrics,y),(0,o.p)("err",[t,(0,v.t)(),!1,r,!!x[e]],void 0,n.K.jserrors,y)},u.RI?(0,c.GG)((()=>S()),!0):S(),p}var E=r(5284);const N=e=>{const t=e.startsWith("http");e+="/",r.p=t?e:"https://"+e};let T=!1;function k(e){let t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:{},r=arguments.length>2?arguments[2]:void 0,n=arguments.length>3?arguments[3]:void 0,{init:o,info:a,loader_config:s,runtime:c={loaderType:r},exposed:l=!0}=t;const d=(0,f.pV)();a||(o=d.init,a=d.info,s=d.loader_config),(0,i.xN)(e.agentIdentifier,o||{}),(0,i.aN)(e.agentIdentifier,s||{}),a.jsAttributes??={},u.bv&&(a.jsAttributes.isWorker=!0),(0,i.x1)(e.agentIdentifier,a);const g=(0,i.D0)(e.agentIdentifier),p=[a.beacon,a.errorBeacon];T||(g.proxy.assets&&(N(g.proxy.assets),p.push(g.proxy.assets)),g.proxy.beacon&&p.push(g.proxy.beacon),R(),(0,f.US)("activatedFeatures",E.B),e.runSoftNavOverSpa&&=!0===g.soft_navigations.enabled&&g.feature_flags.includes("soft_nav")),c.denyList=[...g.ajax.deny_list||[],...g.ajax.block_internal?p:[]],c.ptid=e.agentIdentifier,(0,i.V)(e.agentIdentifier,c),void 0===e.api&&(e.api=_(e.agentIdentifier,n,e.runSoftNavOverSpa)),void 0===e.exposed&&(e.exposed=l),T=!0}},8374:(e,t,r)=>{r.nc=(()=>{try{return document?.currentScript?.nonce}catch(e){}return""})()},860:(e,t,r)=>{"use strict";r.d(t,{K:()=>n,P:()=>i});const n={ajax:"ajax",jserrors:"jserrors",logging:"logging",metrics:"metrics",pageAction:"page_action",pageViewEvent:"page_view_event",pageViewTiming:"page_view_timing",sessionReplay:"session_replay",sessionTrace:"session_trace",softNav:"soft_navigations",spa:"spa"},i={[n.pageViewEvent]:1,[n.pageViewTiming]:2,[n.metrics]:3,[n.jserrors]:4,[n.spa]:5,[n.ajax]:6,[n.sessionTrace]:7,[n.pageAction]:8,[n.softNav]:9,[n.sessionReplay]:10,[n.logging]:11}}},n={};function i(e){var t=n[e];if(void 0!==t)return t.exports;var o=n[e]={exports:{}};return r[e](o,o.exports,i),o.exports}i.m=r,i.d=(e,t)=>{for(var r in t)i.o(t,r)&&!i.o(e,r)&&Object.defineProperty(e,r,{enumerable:!0,get:t[r]})},i.f={},i.e=e=>Promise.all(Object.keys(i.f).reduce(((t,r)=>(i.f[r](e,t),t)),[])),i.u=e=>"nr-rum-1.262.0.min.js",i.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),e={},t="NRBA-1.262.0.PROD:",i.l=(r,n,o,a)=>{if(e[r])e[r].push(n);else{var s,c;if(void 0!==o)for(var u=document.getElementsByTagName("script"),l=0;l<u.length;l++){var d=u[l];if(d.getAttribute("src")==r||d.getAttribute("data-webpack")==t+o){s=d;break}}if(!s){c=!0;var f={296:"sha512-RNqn6sbYWyasLonp9lfe1xvzHNr7lYPbX/O/Yoz+qy0WGpAiV8044reBD60xxSHypyXfx3L5qD1h6EdGCceVQw=="};(s=document.createElement("script")).charset="utf-8",s.timeout=120,i.nc&&s.setAttribute("nonce",i.nc),s.setAttribute("data-webpack",t+o),s.src=r,0!==s.src.indexOf(window.location.origin+"/")&&(s.crossOrigin="anonymous"),f[a]&&(s.integrity=f[a])}e[r]=[n];var g=(t,n)=>{s.onerror=s.onload=null,clearTimeout(p);var i=e[r];if(delete e[r],s.parentNode&&s.parentNode.removeChild(s),i&&i.forEach((e=>e(n))),t)return t(n)},p=setTimeout(g.bind(null,void 0,{type:"timeout",target:s}),12e4);s.onerror=g.bind(null,s.onerror),s.onload=g.bind(null,s.onload),c&&document.head.appendChild(s)}},i.r=e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},i.p="https://js-agent.newrelic.com/",(()=>{var e={840:0,374:0};i.f.j=(t,r)=>{var n=i.o(e,t)?e[t]:void 0;if(0!==n)if(n)r.push(n[2]);else{var o=new Promise(((r,i)=>n=e[t]=[r,i]));r.push(n[2]=o);var a=i.p+i.u(t),s=new Error;i.l(a,(r=>{if(i.o(e,t)&&(0!==(n=e[t])&&(e[t]=void 0),n)){var o=r&&("load"===r.type?"missing":r.type),a=r&&r.target&&r.target.src;s.message="Loading chunk "+t+" failed.\n("+o+": "+a+")",s.name="ChunkLoadError",s.type=o,s.request=a,n[1](s)}}),"chunk-"+t,t)}};var t=(t,r)=>{var n,o,[a,s,c]=r,u=0;if(a.some((t=>0!==e[t]))){for(n in s)i.o(s,n)&&(i.m[n]=s[n]);if(c)c(i)}for(t&&t(r);u<a.length;u++)o=a[u],i.o(e,o)&&e[o]&&e[o][0](),e[o]=0},r=self["webpackChunk:NRBA-1.262.0.PROD"]=self["webpackChunk:NRBA-1.262.0.PROD"]||[];r.forEach(t.bind(null,0)),r.push=t.bind(null,r.push.bind(r))})(),(()=>{"use strict";i(8374);var e=i(944),t=i(6344),r=i(9566),n=i(7836);class o{agentIdentifier;constructor(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:(0,r.LA)(16);this.agentIdentifier=e,this.ee=n.ee.get(e)}#e(t){for(var r=arguments.length,n=new Array(r>1?r-1:0),i=1;i<r;i++)n[i-1]=arguments[i];if("function"==typeof this.api?.[t])return this.api[t](...n);(0,e.R)("Call to agent api ".concat(t," failed. The API is not currently initialized."))}addPageAction(e,t){return this.#e("addPageAction",e,t)}setPageViewName(e,t){return this.#e("setPageViewName",e,t)}setCustomAttribute(e,t,r){return this.#e("setCustomAttribute",e,t,r)}noticeError(e,t){return this.#e("noticeError",e,t)}setUserId(e){return this.#e("setUserId",e)}setApplicationVersion(e){return this.#e("setApplicationVersion",e)}setErrorHandler(e){return this.#e("setErrorHandler",e)}finished(e){return this.#e("finished",e)}addRelease(e,t){return this.#e("addRelease",e,t)}start(e){return this.#e("start",e)}recordReplay(){return this.#e(t.G4.RECORD)}pauseReplay(){return this.#e(t.G4.PAUSE)}addToTrace(e){return this.#e("addToTrace",e)}setCurrentRouteName(e){return this.#e("setCurrentRouteName",e)}interaction(){return this.#e("interaction")}log(e,t){return this.#e("logInfo",e,t)}wrapLogger(e,t,r){return this.#e("wrapLogger",e,t,r)}}var a=i(860),s=i(2983);const c=Object.values(a.K);function u(e){const t={};return c.forEach((r=>{t[r]=function(e,t){return!0===(0,s.gD)(t,"".concat(e,".enabled"))}(r,e)})),t}var l=i(2266);var d=i(1687),f=i(4234),g=i(5289),p=i(6154);const h=e=>p.RI&&!0===(0,s.gD)(e,"privacy.cookies_enabled");function v(e){return!!s.hR.MO&&h(e)&&!0===(0,s.gD)(e,"session_trace.enabled")}var m=i(6389);class b extends f.W{constructor(e,t,r){let n=!(arguments.length>3&&void 0!==arguments[3])||arguments[3];super(e,t,r),this.auto=n,this.abortHandler=void 0,this.featAggregate=void 0,this.onAggregateImported=void 0,!1===(0,s.gD)(this.agentIdentifier,"".concat(this.featureName,".autoStart"))&&(this.auto=!1),this.auto?(0,d.Ak)(e,r):this.ee.on("manual-start-all",(0,m.J)((()=>{(0,d.Ak)(this.agentIdentifier,this.featureName),this.auto=!0,this.importAggregator()})))}importAggregator(){let t,r=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};if(this.featAggregate||!this.auto)return;this.onAggregateImported=new Promise((e=>{t=e}));const n=async()=>{let n;try{if(h(this.agentIdentifier)){const{setupAgentSession:e}=await i.e(296).then(i.bind(i,2987));n=e(this.agentIdentifier)}}catch(t){(0,e.R)("A problem occurred when starting up session manager. This page will not start or extend any session.",t),this.ee.emit("internal-error",[t]),this.featureName===a.K.sessionReplay&&this.abortHandler?.()}try{if(!this.#t(this.featureName,n))return(0,d.Ze)(this.agentIdentifier,this.featureName),void t(!1);const{lazyFeatureLoader:e}=await i.e(296).then(i.bind(i,6103)),{Aggregate:o}=await e(this.featureName,"aggregate");this.featAggregate=new o(this.agentIdentifier,this.aggregator,r),t(!0)}catch(r){(0,e.R)("Downloading and initializing ".concat(this.featureName," failed..."),r),this.abortHandler?.(),(0,d.Ze)(this.agentIdentifier,this.featureName,!0),t(!1),this.ee&&this.ee.abort()}};p.RI?(0,g.GG)((()=>n()),!0):n()}#t(e,t){switch(e){case a.K.sessionReplay:return v(this.agentIdentifier)&&!!t;case a.K.sessionTrace:return!!t;default:return!0}}}var y=i(6630);class w extends b{static featureName=y.T;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,y.T,r),this.importAggregator()}}var A=i(4777),R=i(1478);class x extends A.J{constructor(e){super(e),this.aggregatedData={}}store(e,t,r,n,i){var o=this.getBucket(e,t,r,i);return o.metrics=function(e,t){t||(t={count:0});return t.count+=1,(0,R.$)(e,(function(e,r){t[e]=_(r,t[e])})),t}(n,o.metrics),o}merge(e,t,r,n,i){var o=this.getBucket(e,t,n,i);if(o.metrics){var a=o.metrics;a.count+=r.count,(0,R.$)(r,(function(e,t){if("count"!==e){var n=a[e],i=r[e];i&&!i.c?a[e]=_(i.t,n):a[e]=function(e,t){if(!t)return e;t.c||(t=E(t.t));return t.min=Math.min(e.min,t.min),t.max=Math.max(e.max,t.max),t.t+=e.t,t.sos+=e.sos,t.c+=e.c,t}(i,a[e])}}))}else o.metrics=r}storeMetric(e,t,r,n){var i=this.getBucket(e,t,r);return i.stats=_(n,i.stats),i}getBucket(e,t,r,n){this.aggregatedData[e]||(this.aggregatedData[e]={});var i=this.aggregatedData[e][t];return i||(i=this.aggregatedData[e][t]={params:r||{}},n&&(i.custom=n)),i}get(e,t){return t?this.aggregatedData[e]&&this.aggregatedData[e][t]:this.aggregatedData[e]}take(e){for(var t={},r="",n=!1,i=0;i<e.length;i++)t[r=e[i]]=Object.values(this.aggregatedData[r]||{}),t[r].length&&(n=!0),delete this.aggregatedData[r];return n?t:null}}function _(e,t){return null==e?function(e){e?e.c++:e={c:1};return e}(t):t?(t.c||(t=E(t.t)),t.c+=1,t.t+=e,t.sos+=e*e,e>t.max&&(t.max=e),e<t.min&&(t.min=e),t):{t:e}}function E(e){return{t:e,min:e,max:e,sos:e*e,c:1}}var N=i(384),T=i(3304);var k=i(9908),S=i(2843),I=i(3878),j=i(782),O=i(1863);class P extends b{static featureName=j.T;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,j.T,r),p.RI&&((0,S.u)((()=>(0,k.p)("docHidden",[(0,O.t)()],void 0,j.T,this.ee)),!0),(0,I.sp)("pagehide",(()=>(0,k.p)("winPagehide",[(0,O.t)()],void 0,j.T,this.ee))),this.importAggregator())}}var D=i(3969);class C extends b{static featureName=D.TZ;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,D.TZ,r),this.importAggregator()}}new class extends o{constructor(t,r){super(r),p.gm?(this.sharedAggregator=new x({agentIdentifier:this.agentIdentifier}),this.features={},(0,N.bQ)(this.agentIdentifier,this),this.desiredFeatures=new Set(t.features||[]),this.desiredFeatures.add(w),this.runSoftNavOverSpa=[...this.desiredFeatures].some((e=>e.featureName===a.K.softNav)),(0,l.j)(this,t,t.loaderType||"agent"),this.run()):(0,e.R)("Failed to initialize the agent. Could not determine the runtime environment.")}get config(){return{info:this.info,init:this.init,loader_config:this.loader_config,runtime:this.runtime}}run(){try{const t=u(this.agentIdentifier),r=[...this.desiredFeatures];r.sort(((e,t)=>a.P[e.featureName]-a.P[t.featureName])),r.forEach((r=>{if(!t[r.featureName]&&r.featureName!==a.K.pageViewEvent)return;if(this.runSoftNavOverSpa&&r.featureName===a.K.spa)return;if(!this.runSoftNavOverSpa&&r.featureName===a.K.softNav)return;const n=function(e){switch(e){case a.K.ajax:return[a.K.jserrors];case a.K.sessionTrace:return[a.K.ajax,a.K.pageViewEvent];case a.K.sessionReplay:return[a.K.sessionTrace];case a.K.pageViewTiming:return[a.K.pageViewEvent];default:return[]}}(r.featureName);n.every((e=>e in this.features))||(0,e.R)("".concat(r.featureName," is enabled but one or more dependent features has not been initialized (").concat((0,T.A)(n),"). This may cause unintended consequences or missing data...")),this.features[r.featureName]=new r(this.agentIdentifier,this.sharedAggregator)}))}catch(t){(0,e.R)("Failed to initialize all enabled instrument classes (agent aborted) -",t);for(const e in this.features)this.features[e].abortHandler?.();const r=(0,N.Zm)();delete r.initializedAgents[this.agentIdentifier]?.api,delete r.initializedAgents[this.agentIdentifier]?.features,delete this.sharedAggregator;return r.ee.get(this.agentIdentifier).abort(),!1}}}({features:[w,P,C],loaderType:"lite"})})()})();</script>
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="csrf-name" content="csrf669a6eb981dfd">
+	<meta name="csrf-value" content="a6a077edc796e16a6cea0d633b450cda">
+	
+	<meta name="cart-hash" content="d751713988987e9331980363e24189ce">
+	<meta name="live-settings" content="[]">
+	<meta name="twitter:site" content="@VectorStock">
+	<meta property="og:site_name" content="VectorStock">
+	<meta property="fb:app_id" content="241100862642313">
+
+	<link rel="icon" type="image/svg+xml" href="https://cdn.vectorstock.com/img/icons/favicon.svg">
+	<link rel="icon" type="image/png" href="https://cdn.vectorstock.com/img/icons/favicon.png">
+	<link rel="search" type="application/opensearchdescription+xml" title="VectorStock Search" href="https://www.vectorstock.com/xml/searchbox.xml">
+
+	<title>Violet color big heart Royalty Free Vector Image</title>
+	<meta name="description" content="Violet trendy color big heart, vector illustration. Download a free preview or high-quality Adobe Illustrator (ai), EPS, PDF vectors and high-res JPEG and PNG images.">
+	<meta name="robots" content="max-image-preview:large">	
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://www.vectorstock.com/royalty-free-vector/violet-color-big-heart-vector-21946859">
+	<meta property="og:title" content="Violet color big heart vector image on VectorStock">
+	<meta property="og:description" content="Violet trendy color big heart, vector illustration. Download a free preview or high-quality Adobe Illustrator (ai), EPS, PDF vectors and high-res JPEG and PNG images.">
+	<meta property="og:image" content="https://cdn5.vectorstock.com/i/1000x1000/68/59/violet-color-big-heart-vector-21946859.jpg">
+	<meta property="og:image:url" content="https://cdn5.vectorstock.com/i/1000x1000/68/59/violet-color-big-heart-vector-21946859.jpg">
+	<meta property="og:image:secure_url" content="https://cdn5.vectorstock.com/i/1000x1000/68/59/violet-color-big-heart-vector-21946859.jpg">
+	<meta property="og:image:type" content="image/jpeg">
+	<meta property="og:image:width" content="1000">
+	<meta property="og:image:height" content="1000">
+	
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:url" content="https://www.vectorstock.com/royalty-free-vector/violet-color-big-heart-vector-21946859">
+	<meta name="twitter:title" content="Violet color big heart vector image">
+	<meta name="twitter:description" content="Violet trendy color big heart, vector illustration.">
+	<meta name="twitter:image" content="https://cdn.vectorstock.com/i/1000x1000/68/59/violet-color-big-heart-vector-21946859.webp">
+	<meta name="twitter:image:width" content="1000">
+	<meta name="twitter:image:height" content="1000">
+	
+
+	<link rel="canonical" href="https://www.vectorstock.com/royalty-free-vector/violet-color-big-heart-vector-21946859">
+
+	<link rel="stylesheet" type="text/css" href="./select2_files/common1720155224.min.css">
+	<link rel="stylesheet" type="text/css" href="./select2_files/common-payment1720155224.min.css">
+	<link rel="stylesheet" type="text/css" href="./select2_files/vector1720155224.min.css">
+	<script nonce="s+Qq6FnI7qPR7epcXeK/jF3ButKXVpKyQU1C2+LsBmQ=">window.dataLayer=window.dataLayer||[];(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.defer=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;var n=d.querySelector('[nonce]');n&&j.setAttribute('nonce',n.nonce||n.getAttribute('nonce'));f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-NL6HLLR');</script>
+	<script src="./select2_files/common1721263157.min.js"></script>
+	<script src="./select2_files/vector1721263157.min.js"></script>
+	<script defer="" src="./select2_files/common-payment-paddle1721263157.min.js"></script>
+<script src="./select2_files/tagtag.min.js" async=""></script><script src="./select2_files/tracking.min.js" defer="defer" onerror="ADMITAD.onError.call(this, &quot;3&quot;)"></script><script src="./select2_files/crossdevice.min.js" defer="defer" onerror="ADMITAD.onError.call(this, &quot;4&quot;)"></script><script type="text/javascript" async="" src="./select2_files/f.txt" nonce="s+Qq6FnI7qPR7epcXeK/jF3ButKXVpKyQU1C2+LsBmQ="></script></head>
+<body>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NL6HLLR"height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- Top header -->
+<header>
+	<nav class="top">
+		<figure>
+			<a href="https://www.vectorstock.com/" title="VectorStock®">VectorStock®</a>
+		</figure>
+
+		<div class="grid">
+			<form id="searchbox" class="empty">
+				<div class="wrap">
+					<fieldset>
+						<div class="contents">
+							<div class="tags">
+								<ul></ul>
+							</div>
+							<div class="input">
+								<input type="text" name="input" autocomplete="off" autocapitalize="none" spellcheck="true" value="" placeholder="Search…" maxlength="50" autofocus="">
+								<button type="button" data-action="clear">×</button>
+							</div>
+
+							<input type="hidden" name="category" value="">
+							<input type="hidden" name="custom_srp" value="">
+							<input type="hidden" name="artist" value="">
+							<input type="hidden" name="similar" value="">
+						</div>
+					<div class="suggestions"><div></div></div></fieldset>
+										<button type="button" data-action="searchbyimage" aria-label="Search images by uploading an image to match against">
+						<span class="icon">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 29" role="img">
+								<polyline points="17.7,24.9 6.1,24.9 6.1,4.1 18.4,4.1 22.9,8.6 22.9,17.1"></polyline>
+								<polygon class="fill" points="17.7,4.1 17.7,9.4 22.9,9.4 22.9,8.6 18.4,4.1"></polygon>
+								<circle class="fill" cx="11.4" cy="9.9" r="1.7"></circle>
+								<polygon class="fill" points="12.9,13.3 15.9,17.3 17.6,14.9 20.6,19.1 8.8,19.1"></polygon>
+								<polyline points="25.6,23.4 22.9,20.7 20.2,23.4 "></polyline>
+								<line x1="22.9" y1="20.7" x2="22.9" y2="28.4"></line>
+							</svg>
+						</span>
+						<span class="tooltip">
+							<span>Try searching by image!</span>
+						</span>
+					</button>
+										<button type="submit">
+						<span class="icon">Search</span>
+					</button>
+				</div>
+			</form>
+			<ul>
+				<li><a href="https://www.vectorstock.com/royalty-free-vectors">All Vectors</a></li>
+				<li><a href="https://www.vectorstock.com/free-vectors">Free Vectors</a></li>
+			</ul>
+		</div>
+
+		<div class="aside">
+			<ul>
+				<li><a href="https://www.vectorstock.com/popular-categories" title="Categories">Categories</a></li>
+				<li><a href="https://www.vectorstock.com/pricing" title="Pricing">Pricing</a></li>
+				<li class="account">
+					<button type="button" data-action="signup">Sign Up</button>
+					<button type="button" data-action="login">Login</button>
+				</li>
+			</ul>
+		</div>
+
+		<div id="mobilenav-icon">
+			<span></span><span></span><span></span><span></span>
+		</div>
+	</nav>
+
+	<!-- Mobile menu -->
+	<div id="mobilenav-menu">
+		<div>
+			<div class="group">
+				<h4>Browse</h4>
+				<ul>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors">All Vectors</a></li>
+					<li><a href="https://www.vectorstock.com/free-vectors">Free Vectors</a></li>
+				</ul>
+			</div>
+			<div class="group">
+				<h4>Account</h4>
+				<ul>
+					<li class="account">
+						<ul>
+							<li><a href="https://www.vectorstock.com/signup">Sign Up</a></li>
+							<li data-action="login"><a href="https://www.vectorstock.com/?login=1">Login…</a></li>
+							<li><a href="https://www.vectorstock.com/pricing">Pricing</a></li>
+						</ul>
+					</li>
+				</ul>
+				<form method="get" action="https://www.vectorstock.com/auth/logout" class="logout">
+					<input type="hidden" name="logout" value="1">
+				</form>
+			</div>
+			<div class="group">
+				<h4>Help</h4>
+				<ul>
+					<li><a href="https://www.vectorstock.com/faq"><abbr title="Frequently Asked Questions">FAQs</abbr></a></li>
+					<li><a href="https://www.vectorstock.com/contact">Contact Us</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</header>
+
+		<!-- Account Menu Tabs -->
+		<aside id="nav_sidebar" class="tabs tabsDark">
+
+			<nav>
+				<ul role="tablist">
+					<li data-tab-id="signup" class="" role="tab"><span><span>Sign Up</span></span></li>
+					<li data-tab-id="login" class="selected" role="tab"><span><span>Login</span></span></li>
+				</ul>
+			</nav>
+
+			<section id="sb_signup" data-tab-id="signup" class="">
+				<div class="primary">
+					<p>New to VectorStock?</p>
+					<p><em>We're the largest royalty-free, vector-only stock agency in the world.</em></p>
+					<p>Every week we add new premium graphics by the thousands.</p>
+				</div>
+				<div class="secondary">
+					<p>Whether you're a global ad&nbsp;agency or a freelance graphic designer, we have the vector graphics to make your project come to life.</p>
+					<p>Buy Vectors, sell Vectors or both. <a href="https://www.vectorstock.com/signup">Sign up now, it’s free.</a></p>
+				</div>
+				<div class="footer">
+					<button class="master">
+						<span class="title">Sign Up...</span>
+						<span class="value">
+							<span class="symbol signup"></span>
+						</span>
+					</button>
+				</div>
+			</section>
+
+			<section id="sb_login" data-tab-id="login" class="selected">
+				<form action="https://www.vectorstock.com/royalty-free-vector/violet-color-big-heart-vector-21946859" method="post">
+					<fieldset class="">
+						<label for="vs_username">Email / Username</label>
+						<div class="textfield">
+							<input type="text" id="vs_username" name="vs_username" value="" autocomplete="on">
+						</div>
+					</fieldset>
+					<fieldset class="">
+						<label for="vs_password">Password</label>
+						<button type="button" class="forgot">Forgot Password</button>
+						<div class="textfield">
+							<input type="password" id="vs_password" name="vs_password" value="" autocomplete="on" maxlength="72">
+						</div>
+					</fieldset>
+					<button type="submit">Login</button>
+				</form>
+				<div class="alternatives">
+					<h6>Or Login With</h6>
+					<ul>
+						<li class="gp"><a href="https://www.vectorstock.com/">
+							<span class="title">Google</span>
+							<span class="icon"></span>
+						</a></li>
+						<li class="fb"><a href="https://www.vectorstock.com/">
+							<span class="title">Facebook</span>
+							<span class="icon"></span>
+						</a></li>
+					</ul>
+				</div>
+
+
+			</section>
+		</aside>
+
+	<!-- Page -->
+	<article>
+		<section id="vs-asset" style="max-width: 809px;">
+
+			<!-- Aside -->
+			<div class="aside">
+				<ol itemscope="" itemtype="http://schema.org/BreadcrumbList">
+					<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+						<a itemtype="http://schema.org/Thing" itemprop="item" href="https://www.vectorstock.com/royalty-free-vectors">
+							<span itemprop="name">Royalty Free Vectors</span>
+						</a>
+						<meta itemprop="position" content="1">
+					</li>
+					<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+						<a itemtype="http://schema.org/Thing" itemprop="item" href="https://www.vectorstock.com/royalty-free-vectors/violet-vectors">
+							<span itemprop="name">Violet Vectors</span>
+						</a>
+						<meta itemprop="position" content="2">
+					</li>
+				</ol>
+
+				<h1>Violet color big heart vector&nbsp;image</h1>
+
+				<figure class="target reveal">
+					<div class="highres" data-src="https://cdn5.vectorstock.com/i/1000x1000/68/59/violet-color-big-heart-vector-21946859.jpg" style="padding-top: 99.9%;">
+						<picture>
+							<source type="image/webp" srcset="https://cdn.vectorstock.com/i/1000x1000/68/59/violet-color-big-heart-vector-21946859.webp">
+							<source type="image/jpeg" srcset="https://cdn5.vectorstock.com/i/1000x1000/68/59/violet-color-big-heart-vector-21946859.jpg">
+							<img src="./select2_files/violet-color-big-heart-vector-21946859.jpg" importance="high" title="Violet color big heart vector image" alt="Violet color big heart">
+						</picture>
+					</div>
+					<div class="overlay"></div>
+				</figure>
+
+				<form data-loggedin="0" data-licenses="2" data-license="standard" data-status="" data-payment="single-image">
+					<input type="hidden" id="vector_id" value="21946859">
+					<input type="hidden" id="vector_title" value="Violet color big heart">
+					<input type="hidden" id="vector_description" value="Violet trendy color big heart, vector illustration. Download a free preview or high-quality Adobe Illustrator (ai), EPS, PDF vectors and high-res JPEG and PNG images.">
+					<input type="hidden" id="vector_url" value="https://www.vectorstock.com/royalty-free-vector/violet-color-big-heart-vector-21946859">
+					<input type="hidden" id="vector_media" value="https://cdn5.vectorstock.com/i/1000x1000/68/59/violet-color-big-heart-vector-21946859.jpg">
+					<input type="hidden" id="vector_ratio" value="1">
+					<input type="hidden" id="vector_license_status" value="">
+					<input type="hidden" id="artist_name" value="meowu">
+					<input type="hidden" id="account_user" value="0">
+					<input type="hidden" id="vector_transparent_png" value="0">
+					<input type="hidden" id="vector_svg" value="0">
+					<input type="hidden" id="vector_download_urls" value="[]">
+					<input type="hidden" id="vector_license_options" value="[{&quot;type&quot;:&quot;standard&quot;,&quot;label&quot;:&quot;Standard License&quot;,&quot;cost&quot;:{&quot;single-image&quot;:14.99,&quot;credits&quot;:1,&quot;subscription&quot;:1}},{&quot;type&quot;:&quot;expanded&quot;,&quot;label&quot;:&quot;Expanded License&quot;,&quot;cost&quot;:{&quot;single-image&quot;:39.99,&quot;credits&quot;:30}}]">
+					<input type="hidden" id="account_filetype" value="zip">
+					<input type="hidden" id="account_customizations" value="[]">
+					<input type="hidden" id="account_cloud" value="[{&quot;type&quot;:&quot;googledrive&quot;,&quot;status&quot;:&quot;connect&quot;}]">
+					
+					<div class="options">
+						<!--
+						-- OPTION: License type
+						-->
+						<div class="option" data-type="license" data-license="standard" data-licenses="2">
+							<h6><span class="type">License</span><a href="https://www.vectorstock.com/faq/members/standard-license">Learn More</a></h6>
+							<div class="optgroup radgroup">
+								<fieldset class="checked">
+									<label for="f_license_standard">
+										<input type="radio" id="f_license_standard" name="license" value="standard" checked="checked">
+										<span class="label">Standard</span>
+										<span class="descr">You can use the vector for personal and promotional purposes.</span>
+									</label>
+								</fieldset>
+								<fieldset>
+									<label for="f_license_expanded">
+										<input type="radio" id="f_license_expanded" name="license" value="expanded">
+										<span class="label">Expanded</span>
+										<span class="descr">You can use the vector on items for resale and print-on-demand.</span>
+									</label>
+								</fieldset>
+							</div>
+
+							<div class="help">
+								<p>The license type determines how you can use this image.</p>
+								<table>
+									<thead>
+										<tr>
+											<th></th>
+																						<th data-license="standard">Std.</th>																						<th data-license="expanded">Exp.</th>										</tr>
+									</thead>
+									<tbody>
+																				<tr>
+											<td>Print / Editorial</td>
+											<td data-license="standard"><span class="yes"></span></td><td data-license="expanded"><span class="yes"></span></td> 											
+										</tr>
+										<tr>
+											<td>Graphic Design</td>
+											<td data-license="standard"><span class="yes"></span></td><td data-license="expanded"><span class="yes"></span></td> 											
+										</tr>
+										<tr>
+											<td>Web Design</td>
+											<td data-license="standard"><span class="yes"></span></td><td data-license="expanded"><span class="yes"></span></td> 											
+										</tr>
+										<tr>
+											<td>Social Media</td>
+											<td data-license="standard"><span class="yes"></span></td><td data-license="expanded"><span class="yes"></span></td> 											
+										</tr>
+										<tr>
+											<td>Edit &amp; Modify</td>
+											<td data-license="standard"><span class="yes"></span></td><td data-license="expanded"><span class="yes"></span></td> 											
+										</tr>
+										<tr>
+											<td>Multi-user</td>
+											<td data-license="standard"><span class="no"></span></td><td data-license="expanded"><span class="yes"></span></td> 											
+										</tr>
+										<tr>
+											<td>Resale Items</td>
+											<td data-license="standard"><span class="no"></span></td><td data-license="expanded"><span class="yes"></span></td> 											
+										</tr>
+										<tr>
+											<td>Print on Demand</td>
+											<td data-license="standard"><span class="no"></span></td><td data-license="expanded"><span class="yes"></span></td> 											
+										</tr>
+									</tbody>
+								</table>
+							</div>
+						</div>
+						
+						<!--
+						-- OPTION: License type: Exclusive
+						-->
+						<div class="option" data-type="ownership">
+							<h6>
+								<span class="type">Ownership</span>
+								<a href="https://www.vectorstock.com/faq/members/what-is-an-exclusive-buyout">Learn More</a>
+							</h6>
+							<div class="optgroup toggroup" data-id="rights" data-enabled="0">
+								<fieldset>
+									<label for="f_ownership_exclusive">
+										<span class="toggle">
+											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10" focusable="false" role="img"><path d="M3.9,8.3 7.2,5 3.9,1.7"></path></svg>
+										</span>
+										<span class="label">Exclusive</span>
+										<span class="descr">If you would like to buy this vector exclusively, send the artist a request below:</span>
+										<button type="button" data-copy-process="Sending request" data-copy-success="Request has been sent">
+											<span class="icon"></span>
+											<span class="label">Ask for Exclusive Buyout</span>
+										</button>
+									</label>
+								</fieldset>
+							</div>
+							
+							<div class="help">
+								<p>Want to have this vector image all to yourself? An Exclusive Buyout secures the full rights of this vector.</p>
+								<p>We will remove this vector from our library and the artist will cease selling the&nbsp;artwork.</p>
+							</div>
+						</div>
+						
+						<!--
+						-- OPTION: Payment options (Standard)
+						-->
+						<div class="option" data-type="payment" data-license="standard">
+							<h6><span class="type">Ways to Buy</span><a href="https://www.vectorstock.com/pricing">Compare</a></h6>
+							<div class="optgroup radgroup" data-license="standard">
+								<fieldset class="checked">
+									<label for="f_payment_standard_single-image">
+										<input type="radio" id="f_payment_standard_single-image" name="payment_standard" data-cost="14.99" value="single-image" checked="checked">
+										<span class="label">Pay-per-Image</span>
+										<span class="value"><small>$</small><var>14.99</var></span>
+									</label>
+								</fieldset>
+								<fieldset>
+									<label for="f_payment_standard_credits">
+										<input type="radio" id="f_payment_standard_credits" name="payment_standard" data-cost="1" value="credits">
+										<span class="label">Credits</span>
+										<span class="value"><small>$</small><var>1.00</var></span>
+									</label>
+								</fieldset>
+								<fieldset>
+									<label for="f_payment_standard_subscription">
+										<input type="radio" id="f_payment_standard_subscription" name="payment_standard" data-cost="1" value="subscription">
+										<span class="label">Subscription</span>
+										<span class="value"></span>
+									</label>
+								</fieldset>
+							</div>
+							<div class="help">
+								<p>There are three ways to pay for Standard licenses. Prices are $<abbr title="United States Dollar">USD</abbr>.</p>
+
+								<table>
+									<thead>
+										<tr>
+											<th>Pay with</th>
+											<th>Image Price</th>
+										</tr>
+									</thead>
+									<tbody>
+																				<tr>
+											<td colspan="2">
+												<span class="title">
+													<span class="dt">Pay-per-Image</span>
+													<span class="dm"></span>
+													<span class="dd"><small>$</small>14.99</span>
+												</span>
+												<span class="byline">One-time payment</span>
+											</td>
+										</tr>
+																				<tr>
+											<td colspan="2">
+												<span class="title">
+													<span class="dt">Pre-paid Credits</span>
+													<span class="dm"></span>
+													<span class="dd"><small>$</small>1</span>
+												</span>
+												<span class="byline">Download images on-demand (1 credit = $1). Minimum purchase of 30.</span>
+											</td>
+										</tr>
+										<tr>
+											<td colspan="2">
+												<span class="title">
+													<span class="dt">Subscription Plan</span>
+												</span>
+												<span class="byline">Choose a monthly or annual plan for Unlimited downloads.</span>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+						</div>
+						<!--
+						-- OPTION: Payment options (Expanded)
+						-->
+						<div class="option" data-type="payment" data-license="expanded">
+							<h6><span class="type">Ways to Buy</span><a href="https://www.vectorstock.com/faq/members/ways-to-buy">Compare</a></h6>
+							<div class="optgroup radgroup" data-license="expanded">
+								<fieldset class="checked">
+									<label for="f_payment_expanded_single-image">
+										<input type="radio" id="f_payment_expanded_single-image" name="payment_expanded" data-cost="39.99" value="single-image" checked="checked">
+										<span class="label">Pay-per-Image</span>
+										<span class="value"><small>$</small><var>39.99</var></span>
+									</label>
+								</fieldset>
+								<fieldset>
+									<label for="f_payment_expanded_credits">
+										<input type="radio" id="f_payment_expanded_credits" name="payment_expanded" data-cost="30" value="credits">
+										<span class="label">Credits</span>
+										<span class="value"><small>$</small><var>30.00</var></span>
+									</label>
+								</fieldset>
+							</div>
+														<div class="help">
+								<p>There are two ways to pay for Expanded licenses. Prices are $<abbr title="United States Dollar">USD</abbr>.</p>
+
+								<table>
+									<thead>
+										<tr>
+											<th>Pay with</th>
+											<th>Cost per Image</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td colspan="2">
+												<span class="title">
+													<span class="dt">Pay-per-Image</span>
+													<span class="dm"></span>
+													<span class="dd"><small>$</small>39.99</span>
+												</span>
+												<span class="byline">One-off payment, no signup needed.</span>
+											</td>
+										</tr>
+										<tr>
+											<td colspan="2">
+												<span class="title">
+													<span class="dt">Pre-paid Credits</span>
+													<span class="dm"></span>
+													<span class="dd"><small>$</small>30</span>
+												</span>
+												<span class="byline">Download images on-demand (1 credit = $1).</span>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+													</div>
+						<!--
+						-- OPTION: Payment options (Exclusive)
+						-->
+						<div class="option" data-type="payment" data-license="exclusive">
+							<h6><span class="type">Payment</span></h6>
+							<div class="optgroup radgroup" data-license="exclusive">
+								<fieldset class="checked">
+									<label for="f_payment_exclusive_ppi">
+										<input type="radio" id="f_payment_exclusive_ppi" name="payment_exclusive" data-cost="399" value="single-image" checked="checked">
+										<span class="label">Pay-per-Image</span>
+										<span class="value"><small>$</small><var>399</var></span>
+									</label>
+								</fieldset>
+							</div>
+						</div>
+						<!--
+						-- OPTION: Customization
+						-->
+						<div class="option" data-type="customization">
+							<h6><span class="type">Extra Services</span><a href="https://www.vectorstock.com/faq/members/what-is-the-customize-image-service">Learn More</a></h6>
+							<div class="optgroup chkgroup">
+								<fieldset>
+									<label for="f_payment_customization">
+										<input type="checkbox" id="f_payment_customization" name="payment_customization" data-cost="85" value="customization">
+										<span class="label">Customize image</span>
+										<span class="descr">Only available with Pay-per-Image</span>
+										<span class="value"><small>$</small><var>85.00</var></span>
+									</label>
+								</fieldset>
+							</div>
+							<div class="help">
+								<p>Love the image but just need a few modifications? Let our talented artists do the work for you!</p>
+								<p>We’ll connect you with a designer who can make updates and send you the artwork in a format of your choice.</p>
+								<h4>Examples</h4>
+								<ul>
+									<li>Change the text</li>
+									<li>Modify colors</li>
+									<li>Resize to new dimensions</li>
+									<li>Include logo or symbol</li>
+									<li>Add your company or business name</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="download">
+						<button type="button" data-action="download">
+							<span class="label">Download Image</span>
+							<span class="icon"></span>
+						</button>
+						<h6><span class="label">Files Included</span></h6>
+						<div class="help">
+							<span class="loading"><span class="label">Loading Details...</span></span>
+						</div>
+					</div>
+				</form>
+			</div>
+
+			<!-- Image -->
+			<div class="image">
+				<figure data-orientation="square" class="target reveal">
+					<div class="highres" data-src="https://cdn5.vectorstock.com/i/1000x1000/68/59/violet-color-big-heart-vector-21946859.jpg" style="padding-top: 99.9%;">
+						<picture>
+							<source type="image/webp" srcset="https://cdn.vectorstock.com/i/1000x1000/68/59/violet-color-big-heart-vector-21946859.webp">
+							<source type="image/jpeg" srcset="https://cdn5.vectorstock.com/i/1000x1000/68/59/violet-color-big-heart-vector-21946859.jpg">
+							<img src="./select2_files/violet-color-big-heart-vector-21946859.jpg" importance="high" title="Violet color big heart vector image" alt="Violet color big heart">
+						</picture>
+					</div>
+					<div class="overlay"></div>
+					<div class="panels">
+						<div class="share">
+							<ul>
+								<li><button type="button" data-action="pinterest"><span class="icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25" focusable="false" role="img"><path d="M12.5,0C5.6,0,0,5.6,0,12.5c0,5.12,3.08,9.52,7.48,11.45c-0.03-0.87-0.01-1.92,0.22-2.87c0.24-1.01,1.61-6.81,1.61-6.81s-0.4-0.8-0.4-1.98c0-1.85,1.07-3.24,2.41-3.24c1.14,0,1.69,0.85,1.69,1.88c0,1.14-0.73,2.85-1.1,4.44c-0.31,1.33,0.67,2.41,1.97,2.41c2.37,0,3.96-3.04,3.96-6.65c0-2.74-1.85-4.79-5.2-4.79c-3.79,0-6.15,2.83-6.15,5.99c0,1.09,0.32,1.86,0.82,2.45c0.23,0.27,0.26,0.38,0.18,0.7c-0.06,0.23-0.2,0.78-0.25,1c-0.08,0.32-0.34,0.43-0.63,0.31c-1.75-0.71-2.56-2.62-2.56-4.77c0-3.55,3-7.81,8.93-7.81c4.77,0,7.91,3.45,7.91,7.16c0,4.9-2.73,8.57-6.75,8.57c-1.35,0-2.62-0.73-3.05-1.56c0,0-0.73,2.88-0.88,3.44c-0.27,0.96-0.78,1.93-1.26,2.68C10.08,24.82,11.27,25,12.5,25C19.4,25,25,19.4,25,12.5S19.4,0,12.5,0L12.5,0z"></path></svg></span><span class="label">Save to Pinterest</span></button></li>
+								<li><button type="button" data-action="facebook"><span class="icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25" focusable="false" role="img"><path d="M22.44,1H2.56C1.7,1,1,1.7,1,2.56v19.88C1,23.3,1.7,24,2.56,24h10.41v-8.89H9.98v-3.46h2.99V9.1c0-2.96,1.81-4.58,4.45-4.58c1.27,0,2.35,0.09,2.67,0.14v3.1l-1.83,0c-1.44,0-1.72,0.68-1.72,1.69v2.21h3.43l-0.45,3.46h-2.98V24h5.89C23.3,24,24,23.3,24,22.44V2.56C24,1.7,23.3,1,22.44,1z"></path></svg></span><span class="label">Post to Facebook</span></button></li>
+								<li><button type="button" data-action="twitter"><span class="icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25" focusable="false" role="img"><path d="M14.36,10.97l7.29-8.47h-1.73l-6.33,7.35-5.05-7.35H2.72l7.64,11.12-7.64,8.88h1.73l6.68-7.77,5.34,7.77h5.83l-7.92-11.53h0ZM12,13.72l-.77-1.11L5.06,3.8h2.65l4.97,7.11.77,1.11,6.46,9.24h-2.65l-5.27-7.54h0Z"></path></svg></span><span class="label">Post to X</span></button></li>
+							</ul>
+							<ul>
+								<li><button type="button" data-action="email"><span class="icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25" focusable="false" role="img"><path d="M24.37,2.25c-0.07,0-0.15,0.01-0.22,0.04l-2.75,1L0.24,12.14c-0.3,0.13-0.33,0.54-0.05,0.71l3.94,2.39l0.99,0.6l1.94,5.58c0.05,0.14,0.25,0.1,0.25-0.04l0.03-4.19v-0.05l8.87-7.49c0.15-0.13,0.37-0.12,0.52,0.01l0,0c0.17,0.15,0.17,0.42,0.01,0.58L8.85,18v0.18l7.53,4.52c0.21,0.13,0.48,0.04,0.57-0.19l7.89-19.11l0.11-0.28C25.13,2.68,24.8,2.25,24.37,2.25z"></path></svg></span><span class="label">Send by Email</span></button></li>
+							</ul>
+						</div>
+						<div class="composite">
+							<button type="button" data-action="download"><span><span class="label">Download JPG Preview Image</span></span></button>
+						</div>
+					</div>
+				</figure>
+				<div class="details">
+					<div class="meta">
+						<ul>
+							<li class="meta-id">
+								<dl><dt>Image ID</dt><dd>21946859</dd></dl>
+							</li>
+							<li class="meta-color-mode">
+								<dl><dt>Color Mode</dt><dd>RGB</dd></dl>
+							</li>
+							<li class="meta-artist">
+								<dl>
+									<dt>Artist</dt>
+									<dd>
+										<a href="https://www.vectorstock.com/royalty-free-vectors/vectors-by_meowu" rel="nofollow">meowu</a>
+										<button type="button" data-action="follow" title="Follow Artists that you like to create a newsfeed of their recent images."><span class="label">Follow</span></button>
+										<button type="button" data-action="notfollow" title="Hide Artists that you don&#39;t like to exclude their images in search results."><span class="label">Hide</span></button>
+									</dd>
+								</dl>
+							</li>
+						</ul>
+					</div>
+					<div class="options mini" data-total="2">
+						<ul>
+							<li class="opt-like">
+								<button type="button" data-action="like" data-count="0"><span class="icon">♥</span><span class="label">Like</span><span class="tally"></span></button>
+							</li>
+							<li class="opt-cart">
+								<button type="button" data-action="cart"><span class="icon">+</span><span class="label">Cart</span></button>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<!-- Metadata -->
+			<div class="metadata">
+				<div itemtype="http://schema.org/ImageObject" itemscope="">
+					<meta itemprop="@id" content="https://www.vectorstock.com/21946859">
+					<meta itemprop="contentUrl" content="https://cdn5.vectorstock.com/i/1000x1000/68/59/violet-color-big-heart-vector-21946859.jpg">
+					<meta itemprop="thumbnailUrl" content="https://cdn.vectorstock.com/i/thumb-large/68/59/violet-color-big-heart-vector-21946859.jpg">
+					<meta itemprop="name" content="Violet color big heart vector">
+					<meta itemprop="description" content="Violet trendy color big heart, vector illustration. Download a free preview or high-quality Adobe Illustrator (ai), EPS, PDF vectors and high-res JPEG and PNG images vector image">
+					<meta itemprop="author" content="meowu">
+					<meta itemprop="datePublished" content="2018-09-25">
+					<meta itemprop="acquireLicensePage" content="https://www.vectorstock.com/royalty-free-vector/violet-color-big-heart-vector-21946859">
+					<meta itemprop="license" content="https://www.vectorstock.com/faq/members/standard-license">
+					<meta itemprop="sourceOrganization" content="VectorStock.com">
+				</div>
+			</div>
+
+		</section>
+
+
+		<section id="vs-related">
+			<div id="group-similar" class="group">
+				<h6><span class="icon"></span><strong>Similar Images</strong></h6>
+
+				<div class="gallery_mosaic tiled">
+					<figure data-id="1824916" style="width: 218px; height: 220px; order: 0; padding-right: 1px;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/pink-3d-valentine-heart-vector-1824916" style="height: 210px;">
+							<picture class="portrait picture-loaded" data-width="740" data-height="750">
+								<source type="image/avif" srcset="https://cdn.vectorstock.com/i/750p/49/16/pink-3d-valentine-heart-vector-1824916.avif 750w, https://cdn.vectorstock.com/i/500p/49/16/pink-3d-valentine-heart-vector-1824916.avif 500w" sizes="(max-width: 1046px) 225px, (min-width: 1047px) and (min-device-pixel-ratio: 2) 300px, (min-width: 1047px) 250px">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/750p/49/16/pink-3d-valentine-heart-vector-1824916.webp 750w, https://cdn.vectorstock.com/i/500p/49/16/pink-3d-valentine-heart-vector-1824916.webp 500w" sizes="(max-width: 1046px) 225px, (min-width: 1047px) and (min-device-pixel-ratio: 2) 300px, (min-width: 1047px) 250px">
+								<img loading="lazy" src="./select2_files/pink-3d-valentine-heart-vector-1824916.jpg" height="100%" data-id="1824916" data-title="pink 3d valentine heart" data-ratio="0.98666666666667" alt="Pink 3d valentine heart vector image" style="">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="19579882" style="width: 220px; height: 220px; order: 1; padding-right: 1px;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/big-pink-heart-in-valentine-s-day-concept-vector-19579882" style="height: 210px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/98/82/big-pink-heart-in-valentine-s-day-concept-vector-19579882.webp 2x, https://cdn.vectorstock.com/i/preview-1x/98/82/big-pink-heart-in-valentine-s-day-concept-vector-19579882.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/98/82/big-pink-heart-in-valentine-s-day-concept-vector-19579882.webp 3x, https://cdn.vectorstock.com/i/preview-1x/98/82/big-pink-heart-in-valentine-s-day-concept-vector-19579882.webp 2x, https://cdn.vectorstock.com/i/preview-lt/98/82/big-pink-heart-in-valentine-s-day-concept-vector-19579882.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/98/82/big-pink-heart-in-valentine-s-day-concept-vector-19579882.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/98/82/big-pink-heart-in-valentine-s-day-concept-vector-19579882.jpg 1.5x">
+								<img loading="lazy" src="./select2_files/big-pink-heart-in-valentine-s-day-concept-vector-19579882.jpg" data-id="19579882" data-title="big pink heart in valentine s day concept" data-ratio="1" alt="Big pink heart in valentine s day concept vector" style="">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="7383033" style="width: 220px; height: 220px; order: 2; padding-right: 1px;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/big-red-heart-vector-7383033" style="height: 210px;">
+							<picture class="square picture-loaded" data-width="750" data-height="750">
+								<source type="image/avif" srcset="https://cdn.vectorstock.com/i/750p/30/33/big-red-heart-vector-7383033.avif 750w, https://cdn.vectorstock.com/i/500p/30/33/big-red-heart-vector-7383033.avif 500w" sizes="(max-width: 1046px) 225px, (min-width: 1047px) and (min-device-pixel-ratio: 2) 300px, (min-width: 1047px) 250px">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/750p/30/33/big-red-heart-vector-7383033.webp 750w, https://cdn.vectorstock.com/i/500p/30/33/big-red-heart-vector-7383033.webp 500w" sizes="(max-width: 1046px) 225px, (min-width: 1047px) and (min-device-pixel-ratio: 2) 300px, (min-width: 1047px) 250px">
+								<img loading="lazy" src="./select2_files/big-red-heart-vector-7383033.jpg" height="100%" data-id="7383033" data-title="big red heart" data-ratio="1" alt="Big red heart vector image" style="">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="1280433" style="width: 220px; height: 220px; order: 3;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/big-red-heart-with-reflection-vector-1280433" style="height: 210px;">
+							<picture class="square picture-loaded" data-width="750" data-height="750">
+								<source type="image/avif" srcset="https://cdn.vectorstock.com/i/750p/04/33/big-red-heart-with-reflection-vector-1280433.avif 750w, https://cdn.vectorstock.com/i/500p/04/33/big-red-heart-with-reflection-vector-1280433.avif 500w" sizes="(max-width: 1046px) 225px, (min-width: 1047px) and (min-device-pixel-ratio: 2) 300px, (min-width: 1047px) 250px">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/750p/04/33/big-red-heart-with-reflection-vector-1280433.webp 750w, https://cdn.vectorstock.com/i/500p/04/33/big-red-heart-with-reflection-vector-1280433.webp 500w" sizes="(max-width: 1046px) 225px, (min-width: 1047px) and (min-device-pixel-ratio: 2) 300px, (min-width: 1047px) 250px">
+								<img loading="lazy" src="./select2_files/big-red-heart-with-reflection-vector-1280433.jpg" height="100%" data-id="1280433" data-title="big red heart with reflection" data-ratio="1" alt="Big red heart with reflection vector image" style="">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="13252231" style="width: 220px; height: 220px; order: 4;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/big-red-a-scarlet-heart-on-white-background-vector-13252231" style="height: 210px;">
+							<picture class="square picture-loaded" data-width="750" data-height="750">
+								<source type="image/avif" srcset="https://cdn.vectorstock.com/i/750p/22/31/big-red-a-scarlet-heart-on-white-background-vector-13252231.avif 750w, https://cdn.vectorstock.com/i/500p/22/31/big-red-a-scarlet-heart-on-white-background-vector-13252231.avif 500w" sizes="(max-width: 1046px) 225px, (min-width: 1047px) and (min-device-pixel-ratio: 2) 300px, (min-width: 1047px) 250px">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/750p/22/31/big-red-a-scarlet-heart-on-white-background-vector-13252231.webp 750w, https://cdn.vectorstock.com/i/500p/22/31/big-red-a-scarlet-heart-on-white-background-vector-13252231.webp 500w" sizes="(max-width: 1046px) 225px, (min-width: 1047px) and (min-device-pixel-ratio: 2) 300px, (min-width: 1047px) 250px">
+								<img loading="lazy" src="./select2_files/big-red-a-scarlet-heart-on-white-background-vector-13252231.jpg" height="100%" data-id="13252231" data-title="big red a scarlet heart on white background" data-ratio="1" alt="Big red a scarlet heart on white background vector image" style="">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="37147262" style="width: 220px; height: 220px; order: 5;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/big-red-heart-on-white-background-vector-37147262" style="height: 210px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/72/62/big-red-heart-on-white-background-vector-37147262.webp 2x, https://cdn.vectorstock.com/i/preview-1x/72/62/big-red-heart-on-white-background-vector-37147262.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/72/62/big-red-heart-on-white-background-vector-37147262.webp 3x, https://cdn.vectorstock.com/i/preview-1x/72/62/big-red-heart-on-white-background-vector-37147262.webp 2x, https://cdn.vectorstock.com/i/preview-lt/72/62/big-red-heart-on-white-background-vector-37147262.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/72/62/big-red-heart-on-white-background-vector-37147262.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/72/62/big-red-heart-on-white-background-vector-37147262.jpg 1.5x">
+								<img loading="lazy" src="./select2_files/big-red-heart-on-white-background-vector-37147262.jpg" data-id="37147262" data-title="big red heart on white background" data-ratio="1" alt="Big red heart on white background vector" style="">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="962072" style="width: 304px; height: 254px; order: 6; padding-right: 1px;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/big-heart-background-vector-962072" style="height: 244px;">
+							<picture class="landscape picture-loaded" data-width="902" data-height="750">
+								<source type="image/avif" srcset="https://cdn.vectorstock.com/i/750p/20/72/big-heart-background-vector-962072.avif 750w, https://cdn.vectorstock.com/i/500p/20/72/big-heart-background-vector-962072.avif 500w" sizes="(max-width: 1046px) 225px, (min-width: 1047px) and (min-device-pixel-ratio: 2) 300px, (min-width: 1047px) 250px">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/750p/20/72/big-heart-background-vector-962072.webp 750w, https://cdn.vectorstock.com/i/500p/20/72/big-heart-background-vector-962072.webp 500w" sizes="(max-width: 1046px) 225px, (min-width: 1047px) and (min-device-pixel-ratio: 2) 300px, (min-width: 1047px) 250px">
+								<img loading="lazy" src="./select2_files/big-heart-background-vector-962072.jpg" height="100%" data-id="962072" data-title="big heart background" data-ratio="1.2026666666667" alt="Big heart background vector image" style="">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="19801184" style="width: 254px; height: 254px; order: 7;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/valentine-card-template-with-big-red-heart-vector-19801184" style="height: 244px;">
+							<picture class="square picture-loaded" data-width="750" data-height="750">
+								<source type="image/avif" srcset="https://cdn.vectorstock.com/i/750p/11/84/valentine-card-template-with-big-red-heart-vector-19801184.avif 750w, https://cdn.vectorstock.com/i/500p/11/84/valentine-card-template-with-big-red-heart-vector-19801184.avif 500w" sizes="(max-width: 1046px) 225px, (min-width: 1047px) and (min-device-pixel-ratio: 2) 300px, (min-width: 1047px) 250px">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/750p/11/84/valentine-card-template-with-big-red-heart-vector-19801184.webp 750w, https://cdn.vectorstock.com/i/500p/11/84/valentine-card-template-with-big-red-heart-vector-19801184.webp 500w" sizes="(max-width: 1046px) 225px, (min-width: 1047px) and (min-device-pixel-ratio: 2) 300px, (min-width: 1047px) 250px">
+								<img loading="lazy" src="./select2_files/valentine-card-template-with-big-red-heart-vector-19801184.jpg" height="100%" data-id="19801184" data-title="valentine card template with big red heart" data-ratio="1" alt="Valentine card template with big red heart vector image" style="">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="6239819" style="width: 254px; height: 254px; order: 8;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/heart-charity-icon-vector-6239819" style="height: 244px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/98/19/heart-charity-icon-vector-6239819.webp 2x, https://cdn.vectorstock.com/i/preview-1x/98/19/heart-charity-icon-vector-6239819.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/98/19/heart-charity-icon-vector-6239819.webp 3x, https://cdn.vectorstock.com/i/preview-1x/98/19/heart-charity-icon-vector-6239819.webp 2x, https://cdn.vectorstock.com/i/preview-lt/98/19/heart-charity-icon-vector-6239819.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/98/19/heart-charity-icon-vector-6239819.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/98/19/heart-charity-icon-vector-6239819.jpg 1.5x">
+								<img loading="lazy" src="./select2_files/heart-charity-icon-vector-6239819.jpg" data-id="6239819" data-title="heart charity icon" data-ratio="1" alt="Heart charity icon vector" style="">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="1119448" style="width: 254px; height: 254px; order: 9;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/big-red-heart-vector-1119448" style="height: 244px;">
+							<picture class="square picture-loaded" data-width="750" data-height="750">
+								<source type="image/avif" srcset="https://cdn.vectorstock.com/i/750p/94/48/big-red-heart-vector-1119448.avif 750w, https://cdn.vectorstock.com/i/500p/94/48/big-red-heart-vector-1119448.avif 500w" sizes="(max-width: 1046px) 225px, (min-width: 1047px) and (min-device-pixel-ratio: 2) 300px, (min-width: 1047px) 250px">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/750p/94/48/big-red-heart-vector-1119448.webp 750w, https://cdn.vectorstock.com/i/500p/94/48/big-red-heart-vector-1119448.webp 500w" sizes="(max-width: 1046px) 225px, (min-width: 1047px) and (min-device-pixel-ratio: 2) 300px, (min-width: 1047px) 250px">
+								<img loading="lazy" src="./select2_files/big-red-heart-vector-1119448.jpg" height="100%" data-id="1119448" data-title="big red heart" data-ratio="1" alt="Big red heart vector image" style="">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="3610072" style="width: 254px; height: 254px; order: 10;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/big-red-heart-vector-3610072" style="height: 244px;">
+							<picture class="square picture-loaded" data-width="750" data-height="750">
+								<source type="image/avif" srcset="https://cdn.vectorstock.com/i/750p/00/72/big-red-heart-vector-3610072.avif 750w, https://cdn.vectorstock.com/i/500p/00/72/big-red-heart-vector-3610072.avif 500w" sizes="(max-width: 1046px) 225px, (min-width: 1047px) and (min-device-pixel-ratio: 2) 300px, (min-width: 1047px) 250px">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/750p/00/72/big-red-heart-vector-3610072.webp 750w, https://cdn.vectorstock.com/i/500p/00/72/big-red-heart-vector-3610072.webp 500w" sizes="(max-width: 1046px) 225px, (min-width: 1047px) and (min-device-pixel-ratio: 2) 300px, (min-width: 1047px) 250px">
+								<img loading="lazy" src="./select2_files/big-red-heart-vector-3610072.jpg" height="100%" data-id="3610072" data-title="big red heart" data-ratio="1" alt="Big red heart vector image" style="">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="29466662" style="width: 247px; height: 247px; order: 11; padding-right: 1px;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/gradient-background-in-form-a-shape-vector-29466662" style="height: 237px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/66/62/gradient-background-in-form-a-shape-vector-29466662.webp 2x, https://cdn.vectorstock.com/i/preview-1x/66/62/gradient-background-in-form-a-shape-vector-29466662.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/66/62/gradient-background-in-form-a-shape-vector-29466662.webp 3x, https://cdn.vectorstock.com/i/preview-1x/66/62/gradient-background-in-form-a-shape-vector-29466662.webp 2x, https://cdn.vectorstock.com/i/preview-lt/66/62/gradient-background-in-form-a-shape-vector-29466662.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/66/62/gradient-background-in-form-a-shape-vector-29466662.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/66/62/gradient-background-in-form-a-shape-vector-29466662.jpg 1.5x">
+								<img loading="lazy" src="./select2_files/gradient-background-in-form-a-shape-vector-29466662.jpg" data-id="29466662" data-title="gradient background in form a shape" data-ratio="1" alt="Gradient background in form a shape vector" style="">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="1311205" style="width: 247px; height: 247px; order: 12; padding-right: 1px;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/big-red-heart-vector-1311205" style="height: 237px;">
+							<picture class="square picture-loaded" data-width="750" data-height="750">
+								<source type="image/avif" srcset="https://cdn.vectorstock.com/i/750p/12/05/big-red-heart-vector-1311205.avif 750w, https://cdn.vectorstock.com/i/500p/12/05/big-red-heart-vector-1311205.avif 500w" sizes="(max-width: 1046px) 225px, (min-width: 1047px) and (min-device-pixel-ratio: 2) 300px, (min-width: 1047px) 250px">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/750p/12/05/big-red-heart-vector-1311205.webp 750w, https://cdn.vectorstock.com/i/500p/12/05/big-red-heart-vector-1311205.webp 500w" sizes="(max-width: 1046px) 225px, (min-width: 1047px) and (min-device-pixel-ratio: 2) 300px, (min-width: 1047px) 250px">
+								<img loading="lazy" src="./select2_files/big-red-heart-vector-1311205.jpg" height="100%" data-id="1311205" data-title="big red heart" data-ratio="1" alt="Big red heart vector image" style="">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="1878835" style="width: 281px; height: 247px; order: 13;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/big-red-heart-vector-1878835" style="height: 237px;">
+							<picture class="landscape picture-loaded" data-width="855" data-height="750">
+								<source type="image/avif" srcset="https://cdn.vectorstock.com/i/750p/88/35/big-red-heart-vector-1878835.avif 750w, https://cdn.vectorstock.com/i/500p/88/35/big-red-heart-vector-1878835.avif 500w" sizes="(max-width: 1046px) 225px, (min-width: 1047px) and (min-device-pixel-ratio: 2) 300px, (min-width: 1047px) 250px">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/750p/88/35/big-red-heart-vector-1878835.webp 750w, https://cdn.vectorstock.com/i/500p/88/35/big-red-heart-vector-1878835.webp 500w" sizes="(max-width: 1046px) 225px, (min-width: 1047px) and (min-device-pixel-ratio: 2) 300px, (min-width: 1047px) 250px">
+								<img loading="lazy" src="./select2_files/big-red-heart-vector-1878835.jpg" height="100%" data-id="1878835" data-title="big red heart" data-ratio="1.14" alt="Big red heart vector image" style="">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="2767278" style="width: 297px; height: 247px; order: 14;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/big-red-heart-vector-2767278" style="height: 237px;">
+							<picture class="landscape picture-loaded" data-width="908" data-height="750">
+								<source type="image/avif" srcset="https://cdn.vectorstock.com/i/750p/72/78/big-red-heart-vector-2767278.avif 750w, https://cdn.vectorstock.com/i/500p/72/78/big-red-heart-vector-2767278.avif 500w" sizes="(max-width: 1046px) 225px, (min-width: 1047px) and (min-device-pixel-ratio: 2) 300px, (min-width: 1047px) 250px">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/750p/72/78/big-red-heart-vector-2767278.webp 750w, https://cdn.vectorstock.com/i/500p/72/78/big-red-heart-vector-2767278.webp 500w" sizes="(max-width: 1046px) 225px, (min-width: 1047px) and (min-device-pixel-ratio: 2) 300px, (min-width: 1047px) 250px">
+								<img loading="lazy" src="./select2_files/big-red-heart-vector-2767278.jpg" height="100%" data-id="2767278" data-title="big red heart" data-ratio="1.2106666666667" alt="Big red heart vector image" style="">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="3542835" style="width: 247px; height: 247px; order: 15;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/big-red-heart-vector-3542835" style="height: 237px;">
+							<picture class="square picture-loaded" data-width="750" data-height="750">
+								<source type="image/avif" srcset="https://cdn.vectorstock.com/i/750p/28/35/big-red-heart-vector-3542835.avif 750w, https://cdn.vectorstock.com/i/500p/28/35/big-red-heart-vector-3542835.avif 500w" sizes="(max-width: 1046px) 225px, (min-width: 1047px) and (min-device-pixel-ratio: 2) 300px, (min-width: 1047px) 250px">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/750p/28/35/big-red-heart-vector-3542835.webp 750w, https://cdn.vectorstock.com/i/500p/28/35/big-red-heart-vector-3542835.webp 500w" sizes="(max-width: 1046px) 225px, (min-width: 1047px) and (min-device-pixel-ratio: 2) 300px, (min-width: 1047px) 250px">
+								<img loading="lazy" src="./select2_files/big-red-heart-vector-3542835.jpg" height="100%" data-id="3542835" data-title="big red heart" data-ratio="1" alt="Big red heart vector image" style="">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="19316047" class="hidden"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/big-pink-heart-3d-isolated-on-white-vector-19316047">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/60/47/big-pink-heart-3d-isolated-on-white-vector-19316047.webp 2x, https://cdn.vectorstock.com/i/preview-1x/60/47/big-pink-heart-3d-isolated-on-white-vector-19316047.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/60/47/big-pink-heart-3d-isolated-on-white-vector-19316047.webp 3x, https://cdn.vectorstock.com/i/preview-1x/60/47/big-pink-heart-3d-isolated-on-white-vector-19316047.webp 2x, https://cdn.vectorstock.com/i/preview-lt/60/47/big-pink-heart-3d-isolated-on-white-vector-19316047.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/60/47/big-pink-heart-3d-isolated-on-white-vector-19316047.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/60/47/big-pink-heart-3d-isolated-on-white-vector-19316047.jpg 1.5x">
+								<img loading="lazy" src="./select2_files/big-pink-heart-3d-isolated-on-white-vector-19316047.jpg" data-id="19316047" data-title="big pink heart 3d isolated on white" data-ratio="1.244" alt="Big pink heart 3d isolated on white vector" style="">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="31958997" class="hidden"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/red-hearts-isolated-transparent-background-vector-31958997">
+							<picture class="landscape picture-loaded" data-width="753" data-height="750">
+								<source type="image/avif" srcset="https://cdn.vectorstock.com/i/750p/89/97/red-hearts-isolated-transparent-background-vector-31958997.avif 750w, https://cdn.vectorstock.com/i/500p/89/97/red-hearts-isolated-transparent-background-vector-31958997.avif 500w" sizes="(max-width: 1046px) 225px, (min-width: 1047px) and (min-device-pixel-ratio: 2) 300px, (min-width: 1047px) 250px">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/750p/89/97/red-hearts-isolated-transparent-background-vector-31958997.webp 750w, https://cdn.vectorstock.com/i/500p/89/97/red-hearts-isolated-transparent-background-vector-31958997.webp 500w" sizes="(max-width: 1046px) 225px, (min-width: 1047px) and (min-device-pixel-ratio: 2) 300px, (min-width: 1047px) 250px">
+								<img loading="lazy" src="./select2_files/red-hearts-isolated-transparent-background-vector-31958997.jpg" height="100%" data-id="31958997" data-title="red hearts isolated transparent background" data-ratio="1.004" alt="Red hearts isolated transparent background vector image" style="">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="22509753" class="hidden"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/big-red-love-heart-with-shadow-in-blank-background-vector-22509753">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/97/53/big-red-love-heart-with-shadow-in-blank-background-vector-22509753.webp 2x, https://cdn.vectorstock.com/i/preview-1x/97/53/big-red-love-heart-with-shadow-in-blank-background-vector-22509753.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/97/53/big-red-love-heart-with-shadow-in-blank-background-vector-22509753.webp 3x, https://cdn.vectorstock.com/i/preview-1x/97/53/big-red-love-heart-with-shadow-in-blank-background-vector-22509753.webp 2x, https://cdn.vectorstock.com/i/preview-lt/97/53/big-red-love-heart-with-shadow-in-blank-background-vector-22509753.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/97/53/big-red-love-heart-with-shadow-in-blank-background-vector-22509753.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/97/53/big-red-love-heart-with-shadow-in-blank-background-vector-22509753.jpg 1.5x">
+								<img loading="lazy" src="./select2_files/big-red-love-heart-with-shadow-in-blank-background-vector-22509753.jpg" data-id="22509753" data-title="big red love heart with shadow in blank background" data-ratio="0.932" alt="Big red love heart with shadow in blank background vector" style="">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="1169035" class="hidden"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/big-sparkling-heart-vector-1169035">
+							<picture class="landscape picture-loaded" data-width="936" data-height="750">
+								<source type="image/avif" srcset="https://cdn.vectorstock.com/i/750p/90/35/big-sparkling-heart-vector-1169035.avif 750w, https://cdn.vectorstock.com/i/500p/90/35/big-sparkling-heart-vector-1169035.avif 500w" sizes="(max-width: 1046px) 225px, (min-width: 1047px) and (min-device-pixel-ratio: 2) 300px, (min-width: 1047px) 250px">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/750p/90/35/big-sparkling-heart-vector-1169035.webp 750w, https://cdn.vectorstock.com/i/500p/90/35/big-sparkling-heart-vector-1169035.webp 500w" sizes="(max-width: 1046px) 225px, (min-width: 1047px) and (min-device-pixel-ratio: 2) 300px, (min-width: 1047px) 250px">
+								<img loading="lazy" src="./select2_files/big-sparkling-heart-vector-1169035.jpg" height="100%" data-id="1169035" data-title="big sparkling heart" data-ratio="1.248" alt="Big sparkling heart vector image" style="">
+							</picture>
+						</a>
+					</div></figure>
+				</div>
+				<div class="gallery small more">
+					<ul>
+						<li data-id="9921135" data-title="Big heart with rainbow colors vector image" data-src="https://cdn.vectorstock.com/i/thumbs/11/35/big-heart-with-rainbow-colors-vector-9921135.jpg" data-width="" data-height=""><a href="https://www.vectorstock.com/royalty-free-vector/big-heart-with-rainbow-colors-vector-9921135" title="big heart with rainbow colors"><noscript><img src="https://cdn.vectorstock.com/i/thumbs/11/35/big-heart-with-rainbow-colors-vector-9921135.jpg" title="big heart with rainbow colors" alt="big heart with rainbow colors vector image"></noscript></a></li>
+						<li data-id="6239805" data-title="Heart care icon vector image" data-src="https://cdn.vectorstock.com/i/thumbs/98/05/heart-care-icon-vector-6239805.jpg" data-width="" data-height=""><a href="https://www.vectorstock.com/royalty-free-vector/heart-care-icon-vector-6239805" title="heart care icon"><noscript><img src="https://cdn.vectorstock.com/i/thumbs/98/05/heart-care-icon-vector-6239805.jpg" title="heart care icon" alt="heart care icon vector image"></noscript></a></li>
+						<li data-id="7198127" data-title="Big red heart vector image" data-src="https://cdn.vectorstock.com/i/500p/81/27/big-red-heart-vector-7198127.jpg" data-width="750" data-height="750"><a href="https://www.vectorstock.com/royalty-free-vector/big-red-heart-vector-7198127" title="big red heart"><noscript><img src="https://cdn.vectorstock.com/i/500p/81/27/big-red-heart-vector-7198127.jpg" title="big red heart" alt="big red heart vector image"></noscript></a></li>
+						<li data-id="1263338" data-title="Big shiny red heart vector image" data-src="https://cdn.vectorstock.com/i/500p/33/38/big-shiny-red-heart-vector-1263338.jpg" data-width="750" data-height="750"><a href="https://www.vectorstock.com/royalty-free-vector/big-shiny-red-heart-vector-1263338" title="big shiny red heart"><noscript><img src="https://cdn.vectorstock.com/i/500p/33/38/big-shiny-red-heart-vector-1263338.jpg" title="big shiny red heart" alt="big shiny red heart vector image"></noscript></a></li>
+						<li data-id="3542936" data-title="Big gold heart vector image" data-src="https://cdn.vectorstock.com/i/500p/29/36/big-gold-heart-vector-3542936.jpg" data-width="750" data-height="750"><a href="https://www.vectorstock.com/royalty-free-vector/big-gold-heart-vector-3542936" title="big gold heart"><noscript><img src="https://cdn.vectorstock.com/i/500p/29/36/big-gold-heart-vector-3542936.jpg" title="big gold heart" alt="big gold heart vector image"></noscript></a></li>
+						<li data-id="6795556" data-title="Big red heart vector image" data-src="https://cdn.vectorstock.com/i/500p/55/56/big-red-heart-vector-6795556.jpg" data-width="750" data-height="750"><a href="https://www.vectorstock.com/royalty-free-vector/big-red-heart-vector-6795556" title="big red heart"><noscript><img src="https://cdn.vectorstock.com/i/500p/55/56/big-red-heart-vector-6795556.jpg" title="big red heart" alt="big red heart vector image"></noscript></a></li>
+						<li data-id="6795561" data-title="Big red heart vector image" data-src="https://cdn.vectorstock.com/i/500p/55/61/big-red-heart-vector-6795561.jpg" data-width="750" data-height="750"><a href="https://www.vectorstock.com/royalty-free-vector/big-red-heart-vector-6795561" title="big red heart"><noscript><img src="https://cdn.vectorstock.com/i/500p/55/61/big-red-heart-vector-6795561.jpg" title="big red heart" alt="big red heart vector image"></noscript></a></li>
+						<li data-id="1873648" data-title="Big red hearts vector image" data-src="https://cdn.vectorstock.com/i/500p/36/48/big-red-hearts-vector-1873648.jpg" data-width="663" data-height="750"><a href="https://www.vectorstock.com/royalty-free-vector/big-red-hearts-vector-1873648" title="big red hearts"><noscript><img src="https://cdn.vectorstock.com/i/500p/36/48/big-red-hearts-vector-1873648.jpg" title="big red hearts" alt="big red hearts vector image"></noscript></a></li>
+						<li data-id="6239944" data-title="Heart surgery icon vector image" data-src="https://cdn.vectorstock.com/i/thumbs/99/44/heart-surgery-icon-vector-6239944.jpg" data-width="" data-height=""><a href="https://www.vectorstock.com/royalty-free-vector/heart-surgery-icon-vector-6239944" title="heart surgery icon"><noscript><img src="https://cdn.vectorstock.com/i/thumbs/99/44/heart-surgery-icon-vector-6239944.jpg" title="heart surgery icon" alt="heart surgery icon vector image"></noscript></a></li>
+						<li data-id="29262893" data-title="Modern background in form a shape vector image" data-src="https://cdn.vectorstock.com/i/thumbs/28/93/modern-background-in-form-a-shape-vector-29262893.jpg" data-width="" data-height=""><a href="https://www.vectorstock.com/royalty-free-vector/modern-background-in-form-a-shape-vector-29262893" title="modern background in form a shape"><noscript><img src="https://cdn.vectorstock.com/i/thumbs/28/93/modern-background-in-form-a-shape-vector-29262893.jpg" title="modern background in form a shape" alt="modern background in form a shape vector image"></noscript></a></li>
+						<li data-id="6795489" data-title="Big red heart vector image" data-src="https://cdn.vectorstock.com/i/500p/54/89/big-red-heart-vector-6795489.jpg" data-width="750" data-height="750"><a href="https://www.vectorstock.com/royalty-free-vector/big-red-heart-vector-6795489" title="big red heart"><noscript><img src="https://cdn.vectorstock.com/i/500p/54/89/big-red-heart-vector-6795489.jpg" title="big red heart" alt="big red heart vector image"></noscript></a></li>
+						<li data-id="6795560" data-title="Big red heart vector image" data-src="https://cdn.vectorstock.com/i/500p/55/60/big-red-heart-vector-6795560.jpg" data-width="750" data-height="750"><a href="https://www.vectorstock.com/royalty-free-vector/big-red-heart-vector-6795560" title="big red heart"><noscript><img src="https://cdn.vectorstock.com/i/500p/55/60/big-red-heart-vector-6795560.jpg" title="big red heart" alt="big red heart vector image"></noscript></a></li>
+						<li data-id="6795477" data-title="Big red heart vector image" data-src="https://cdn.vectorstock.com/i/500p/54/77/big-red-heart-vector-6795477.jpg" data-width="750" data-height="750"><a href="https://www.vectorstock.com/royalty-free-vector/big-red-heart-vector-6795477" title="big red heart"><noscript><img src="https://cdn.vectorstock.com/i/500p/54/77/big-red-heart-vector-6795477.jpg" title="big red heart" alt="big red heart vector image"></noscript></a></li>
+						<li data-id="6795547" data-title="Big red heart vector image" data-src="https://cdn.vectorstock.com/i/500p/55/47/big-red-heart-vector-6795547.jpg" data-width="750" data-height="750"><a href="https://www.vectorstock.com/royalty-free-vector/big-red-heart-vector-6795547" title="big red heart"><noscript><img src="https://cdn.vectorstock.com/i/500p/55/47/big-red-heart-vector-6795547.jpg" title="big red heart" alt="big red heart vector image"></noscript></a></li>
+						<li data-id="13900651" data-title="Romantic background big red heart burning vector image" data-src="https://cdn.vectorstock.com/i/500p/06/51/romantic-background-big-red-heart-burning-vector-13900651.jpg" data-width="1328" data-height="750"><a href="https://www.vectorstock.com/royalty-free-vector/romantic-background-big-red-heart-burning-vector-13900651" title="romantic background big red heart burning"><noscript><img src="https://cdn.vectorstock.com/i/500p/06/51/romantic-background-big-red-heart-burning-vector-13900651.jpg" title="romantic background big red heart burning" alt="romantic background big red heart burning vector image"></noscript></a></li>
+						<li data-id="19484179" data-title="Colorful hearts design inside big heart decoration vector image" data-src="https://cdn.vectorstock.com/i/thumbs/41/79/colorful-hearts-design-inside-big-heart-decoration-vector-19484179.jpg" data-width="" data-height=""><a href="https://www.vectorstock.com/royalty-free-vector/colorful-hearts-design-inside-big-heart-decoration-vector-19484179" title="colorful hearts design inside big heart decoration"><noscript><img src="https://cdn.vectorstock.com/i/thumbs/41/79/colorful-hearts-design-inside-big-heart-decoration-vector-19484179.jpg" title="colorful hearts design inside big heart decoration" alt="colorful hearts design inside big heart decoration vector image"></noscript></a></li>
+						<li data-id="9780154" data-title="Big heart shape american flag star and strip icon vector image" data-src="https://cdn.vectorstock.com/i/500p/01/54/big-heart-shape-american-flag-star-and-strip-icon-vector-9780154.jpg" data-width="751" data-height="750"><a href="https://www.vectorstock.com/royalty-free-vector/big-heart-shape-american-flag-star-and-strip-icon-vector-9780154" title="big heart shape american flag star and strip icon"><noscript><img src="https://cdn.vectorstock.com/i/500p/01/54/big-heart-shape-american-flag-star-and-strip-icon-vector-9780154.jpg" title="big heart shape american flag star and strip icon" alt="big heart shape american flag star and strip icon vector image"></noscript></a></li>
+						<li data-id="3548702" data-title="Big red glossy heart vector image" data-src="https://cdn.vectorstock.com/i/500p/87/02/big-red-glossy-heart-vector-3548702.jpg" data-width="750" data-height="750"><a href="https://www.vectorstock.com/royalty-free-vector/big-red-glossy-heart-vector-3548702" title="big red glossy heart"><noscript><img src="https://cdn.vectorstock.com/i/500p/87/02/big-red-glossy-heart-vector-3548702.jpg" title="big red glossy heart" alt="big red glossy heart vector image"></noscript></a></li>
+						<li data-id="6795521" data-title="Big rainbow heart vector image" data-src="https://cdn.vectorstock.com/i/500p/55/21/big-rainbow-heart-vector-6795521.jpg" data-width="750" data-height="750"><a href="https://www.vectorstock.com/royalty-free-vector/big-rainbow-heart-vector-6795521" title="big rainbow heart"><noscript><img src="https://cdn.vectorstock.com/i/500p/55/21/big-rainbow-heart-vector-6795521.jpg" title="big rainbow heart" alt="big rainbow heart vector image"></noscript></a></li>
+						<li data-id="14680737" data-title="Romantic background big red heart burning vector image" data-src="https://cdn.vectorstock.com/i/500p/07/37/romantic-background-big-red-heart-burning-vector-14680737.jpg" data-width="1328" data-height="750"><a href="https://www.vectorstock.com/royalty-free-vector/romantic-background-big-red-heart-burning-vector-14680737" title="romantic background big red heart burning"><noscript><img src="https://cdn.vectorstock.com/i/500p/07/37/romantic-background-big-red-heart-burning-vector-14680737.jpg" title="romantic background big red heart burning" alt="romantic background big red heart burning vector image"></noscript></a></li>
+						<li data-id="1974879" data-title="Dark heart crystal vector image" data-src="https://cdn.vectorstock.com/i/thumbs/48/79/dark-heart-crystal-vector-1974879.jpg" data-width="" data-height=""><a href="https://www.vectorstock.com/royalty-free-vector/dark-heart-crystal-vector-1974879" title="dark heart crystal"><noscript><img src="https://cdn.vectorstock.com/i/thumbs/48/79/dark-heart-crystal-vector-1974879.jpg" title="dark heart crystal" alt="dark heart crystal vector image"></noscript></a></li>
+						<li data-id="37147000" data-title="Glossy red heart with big bow and ribbon romantic vector image" data-src="https://cdn.vectorstock.com/i/thumbs/70/00/glossy-red-heart-with-big-bow-and-ribbon-romantic-vector-37147000.jpg" data-width="" data-height=""><a href="https://www.vectorstock.com/royalty-free-vector/glossy-red-heart-with-big-bow-and-ribbon-romantic-vector-37147000" title="glossy red heart with big bow and ribbon romantic"><noscript><img src="https://cdn.vectorstock.com/i/thumbs/70/00/glossy-red-heart-with-big-bow-and-ribbon-romantic-vector-37147000.jpg" title="glossy red heart with big bow and ribbon romantic" alt="glossy red heart with big bow and ribbon romantic vector image"></noscript></a></li>
+						<li data-id="6795557" data-title="Big red heart vector image" data-src="https://cdn.vectorstock.com/i/500p/55/57/big-red-heart-vector-6795557.jpg" data-width="750" data-height="750"><a href="https://www.vectorstock.com/royalty-free-vector/big-red-heart-vector-6795557" title="big red heart"><noscript><img src="https://cdn.vectorstock.com/i/500p/55/57/big-red-heart-vector-6795557.jpg" title="big red heart" alt="big red heart vector image"></noscript></a></li>
+						<li data-id="3753371" data-title="White heart on purple background vector image" data-src="https://cdn.vectorstock.com/i/500p/33/71/white-heart-on-purple-background-vector-3753371.jpg" data-width="1279" data-height="750"><a href="https://www.vectorstock.com/royalty-free-vector/white-heart-on-purple-background-vector-3753371" title="white heart on purple background"><noscript><img src="https://cdn.vectorstock.com/i/500p/33/71/white-heart-on-purple-background-vector-3753371.jpg" title="white heart on purple background" alt="white heart on purple background vector image"></noscript></a></li>
+						<li data-id="2087229" data-title="Big heart vector image" data-src="https://cdn.vectorstock.com/i/500p/72/29/big-heart-vector-2087229.jpg" data-width="965" data-height="750"><a href="https://www.vectorstock.com/royalty-free-vector/big-heart-vector-2087229" title="big heart"><noscript><img src="https://cdn.vectorstock.com/i/500p/72/29/big-heart-vector-2087229.jpg" title="big heart" alt="big heart vector image"></noscript></a></li>
+						<li data-id="6795479" data-title="Big red heart vector image" data-src="https://cdn.vectorstock.com/i/500p/54/79/big-red-heart-vector-6795479.jpg" data-width="750" data-height="750"><a href="https://www.vectorstock.com/royalty-free-vector/big-red-heart-vector-6795479" title="big red heart"><noscript><img src="https://cdn.vectorstock.com/i/500p/54/79/big-red-heart-vector-6795479.jpg" title="big red heart" alt="big red heart vector image"></noscript></a></li>
+						<li data-id="1637742" data-title="Pink big heart shape vector image" data-src="https://cdn.vectorstock.com/i/500p/77/42/pink-big-heart-shape-vector-1637742.jpg" data-width="750" data-height="750"><a href="https://www.vectorstock.com/royalty-free-vector/pink-big-heart-shape-vector-1637742" title="pink big heart shape"><noscript><img src="https://cdn.vectorstock.com/i/500p/77/42/pink-big-heart-shape-vector-1637742.jpg" title="pink big heart shape" alt="pink big heart shape vector image"></noscript></a></li>
+						<li data-id="7198102" data-title="Transparent heart vector image" data-src="https://cdn.vectorstock.com/i/500p/81/02/transparent-heart-vector-7198102.jpg" data-width="750" data-height="750"><a href="https://www.vectorstock.com/royalty-free-vector/transparent-heart-vector-7198102" title="transparent heart"><noscript><img src="https://cdn.vectorstock.com/i/500p/81/02/transparent-heart-vector-7198102.jpg" title="transparent heart" alt="transparent heart vector image"></noscript></a></li>
+						<li data-id="6239850" data-title="Heart ekg icon vector image" data-src="https://cdn.vectorstock.com/i/500p/98/50/heart-ekg-icon-vector-6239850.jpg" data-width="799" data-height="750"><a href="https://www.vectorstock.com/royalty-free-vector/heart-ekg-icon-vector-6239850" title="heart ekg icon"><noscript><img src="https://cdn.vectorstock.com/i/500p/98/50/heart-ekg-icon-vector-6239850.jpg" title="heart ekg icon" alt="heart ekg icon vector image"></noscript></a></li>
+						<li data-id="22904306" data-title="Big and small red heart vector image" data-src="https://cdn.vectorstock.com/i/thumbs/43/06/big-and-small-red-heart-vector-22904306.jpg" data-width="" data-height=""><a href="https://www.vectorstock.com/royalty-free-vector/big-and-small-red-heart-vector-22904306" title="big and small red heart"><noscript><img src="https://cdn.vectorstock.com/i/thumbs/43/06/big-and-small-red-heart-vector-22904306.jpg" title="big and small red heart" alt="big and small red heart vector image"></noscript></a></li>
+						<li class="more"><div><a href="https://www.vectorstock.com/royalty-free-vectors/vectors-similar-to_21946859" rel="nofollow"><span class="lrg">More Images…</span><span class="sml">More</span></a></div></li>
+					</ul>
+				</div>
+			</div>
+			<div id="group-artist" class="group">
+				<h6><span class="icon"></span><strong>More by <a href="https://www.vectorstock.com/royalty-free-vectors/vectors-by_meowu" rel="nofollow">meowu</a></strong></h6>
+
+				<div class="gallery_mosaic tiled">
+					<figure data-id="22897607" style="width: 228px; height: 228px; order: 0;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/mardi-gras-vector-22897607" style="height: 218px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/76/07/mardi-gras-vector-22897607.webp 2x, https://cdn.vectorstock.com/i/preview-1x/76/07/mardi-gras-vector-22897607.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/76/07/mardi-gras-vector-22897607.webp 3x, https://cdn.vectorstock.com/i/preview-1x/76/07/mardi-gras-vector-22897607.webp 2x, https://cdn.vectorstock.com/i/preview-lt/76/07/mardi-gras-vector-22897607.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/76/07/mardi-gras-vector-22897607.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/76/07/mardi-gras-vector-22897607.jpg 1.5x">
+								<img loading="lazy" src="./select2_files/mardi-gras-vector-22897607.jpg" data-id="22897607" data-title="mardi gras" data-ratio="1" alt="Mardi gras vector" style="">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="23264993" style="width: 228px; height: 228px; order: 1;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/colorful-heart-mardi-gras-sign-vector-23264993" style="height: 218px;">
+							<picture class="square picture-loaded" data-width="750" data-height="750">
+								<source type="image/avif" srcset="https://cdn.vectorstock.com/i/750p/49/93/colorful-heart-mardi-gras-sign-vector-23264993.avif 750w, https://cdn.vectorstock.com/i/500p/49/93/colorful-heart-mardi-gras-sign-vector-23264993.avif 500w" sizes="(max-width: 1046px) 225px, (min-width: 1047px) and (min-device-pixel-ratio: 2) 300px, (min-width: 1047px) 250px">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/750p/49/93/colorful-heart-mardi-gras-sign-vector-23264993.webp 750w, https://cdn.vectorstock.com/i/500p/49/93/colorful-heart-mardi-gras-sign-vector-23264993.webp 500w" sizes="(max-width: 1046px) 225px, (min-width: 1047px) and (min-device-pixel-ratio: 2) 300px, (min-width: 1047px) 250px">
+								<img loading="lazy" src="./select2_files/colorful-heart-mardi-gras-sign-vector-23264993.jpg" height="100%" data-id="23264993" data-title="colorful heart mardi gras sign" data-ratio="1" alt="Colorful heart mardi gras sign vector image" style="">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="21664294" style="width: 228px; height: 228px; order: 2;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/black-heart-vector-21664294" style="height: 218px;">
+							<picture class="square picture-loaded" data-width="750" data-height="750">
+								<source type="image/avif" srcset="https://cdn.vectorstock.com/i/750p/42/94/black-heart-vector-21664294.avif 750w, https://cdn.vectorstock.com/i/500p/42/94/black-heart-vector-21664294.avif 500w" sizes="(max-width: 1046px) 225px, (min-width: 1047px) and (min-device-pixel-ratio: 2) 300px, (min-width: 1047px) 250px">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/750p/42/94/black-heart-vector-21664294.webp 750w, https://cdn.vectorstock.com/i/500p/42/94/black-heart-vector-21664294.webp 500w" sizes="(max-width: 1046px) 225px, (min-width: 1047px) and (min-device-pixel-ratio: 2) 300px, (min-width: 1047px) 250px">
+								<img loading="lazy" src="./select2_files/black-heart-vector-21664294.jpg" height="100%" data-id="21664294" data-title="black heart" data-ratio="1" alt="Black heart vector image" style="">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="22897603" style="width: 228px; height: 228px; order: 3;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/beer-heart-vector-22897603" style="height: 218px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/76/03/beer-heart-vector-22897603.webp 2x, https://cdn.vectorstock.com/i/preview-1x/76/03/beer-heart-vector-22897603.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/76/03/beer-heart-vector-22897603.webp 3x, https://cdn.vectorstock.com/i/preview-1x/76/03/beer-heart-vector-22897603.webp 2x, https://cdn.vectorstock.com/i/preview-lt/76/03/beer-heart-vector-22897603.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/76/03/beer-heart-vector-22897603.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/76/03/beer-heart-vector-22897603.jpg 1.5x">
+								<img loading="lazy" src="./select2_files/beer-heart-vector-22897603.jpg" data-id="22897603" data-title="beer heart" data-ratio="1" alt="Beer heart vector" style="">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="21664299" style="width: 228px; height: 228px; order: 4;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/sale-background-vector-21664299" style="height: 218px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/42/99/sale-background-vector-21664299.webp 2x, https://cdn.vectorstock.com/i/preview-1x/42/99/sale-background-vector-21664299.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/42/99/sale-background-vector-21664299.webp 3x, https://cdn.vectorstock.com/i/preview-1x/42/99/sale-background-vector-21664299.webp 2x, https://cdn.vectorstock.com/i/preview-lt/42/99/sale-background-vector-21664299.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/42/99/sale-background-vector-21664299.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/42/99/sale-background-vector-21664299.jpg 1.5x">
+								<img loading="lazy" src="./select2_files/sale-background-vector-21664299.jpg" data-id="21664299" data-title="sale background" data-ratio="1" alt="Sale background vector" style="">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="21664298" style="width: 181px; height: 228px; order: 5;"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/sale-background-vector-21664298" style="height: 218px;">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/42/98/sale-background-vector-21664298.webp 2x, https://cdn.vectorstock.com/i/preview-1x/42/98/sale-background-vector-21664298.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/42/98/sale-background-vector-21664298.webp 3x, https://cdn.vectorstock.com/i/preview-1x/42/98/sale-background-vector-21664298.webp 2x, https://cdn.vectorstock.com/i/preview-lt/42/98/sale-background-vector-21664298.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/42/98/sale-background-vector-21664298.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/42/98/sale-background-vector-21664298.jpg 1.5x">
+								<img loading="lazy" src="./select2_files/sale-background-vector-21664298.jpg" data-id="21664298" data-title="sale background" data-ratio="0.784" alt="Sale background vector" style="">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="23645964" class="hidden"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/beer-lover-vector-23645964">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/59/64/beer-lover-vector-23645964.webp 2x, https://cdn.vectorstock.com/i/preview-1x/59/64/beer-lover-vector-23645964.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/59/64/beer-lover-vector-23645964.webp 3x, https://cdn.vectorstock.com/i/preview-1x/59/64/beer-lover-vector-23645964.webp 2x, https://cdn.vectorstock.com/i/preview-lt/59/64/beer-lover-vector-23645964.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/59/64/beer-lover-vector-23645964.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/59/64/beer-lover-vector-23645964.jpg 1.5x">
+								<img loading="lazy" src="./select2_files/beer-lover-vector-23645964.jpg" data-id="23645964" data-title="beer lover" data-ratio="1" alt="Beer lover vector" style="">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="30411420" class="hidden"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/colorful-heart-mardi-gras-vector-30411420">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/14/20/colorful-heart-mardi-gras-vector-30411420.webp 2x, https://cdn.vectorstock.com/i/preview-1x/14/20/colorful-heart-mardi-gras-vector-30411420.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/14/20/colorful-heart-mardi-gras-vector-30411420.webp 3x, https://cdn.vectorstock.com/i/preview-1x/14/20/colorful-heart-mardi-gras-vector-30411420.webp 2x, https://cdn.vectorstock.com/i/preview-lt/14/20/colorful-heart-mardi-gras-vector-30411420.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/14/20/colorful-heart-mardi-gras-vector-30411420.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/14/20/colorful-heart-mardi-gras-vector-30411420.jpg 1.5x">
+								<img loading="lazy" src="./select2_files/colorful-heart-mardi-gras-vector-30411420.jpg" data-id="30411420" data-title="colorful heart mardi gras" data-ratio="1" alt="Colorful heart mardi gras vector" style="">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="32492769" class="hidden"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/icon-lgbt-rainbow-flag-background-vector-32492769">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/27/69/icon-lgbt-rainbow-flag-background-vector-32492769.webp 2x, https://cdn.vectorstock.com/i/preview-1x/27/69/icon-lgbt-rainbow-flag-background-vector-32492769.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/27/69/icon-lgbt-rainbow-flag-background-vector-32492769.webp 3x, https://cdn.vectorstock.com/i/preview-1x/27/69/icon-lgbt-rainbow-flag-background-vector-32492769.webp 2x, https://cdn.vectorstock.com/i/preview-lt/27/69/icon-lgbt-rainbow-flag-background-vector-32492769.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/27/69/icon-lgbt-rainbow-flag-background-vector-32492769.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/27/69/icon-lgbt-rainbow-flag-background-vector-32492769.jpg 1.5x">
+								<img loading="lazy" src="./select2_files/icon-lgbt-rainbow-flag-background-vector-32492769.jpg" data-id="32492769" data-title="icon lgbt rainbow flag background" data-ratio="1" alt="Icon lgbt rainbow flag background vector" style="">
+							</picture>
+						</a>
+					</div></figure>
+					<figure data-id="29294116" class="hidden"><div class="inner">
+						<a href="https://www.vectorstock.com/royalty-free-vector/mardi-gras-vector-29294116">
+							<picture class="picture-loaded">
+								<source type="image/webp" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/41/16/mardi-gras-vector-29294116.webp 2x, https://cdn.vectorstock.com/i/preview-1x/41/16/mardi-gras-vector-29294116.webp 1.5x">
+								<source type="image/webp" srcset="https://cdn.vectorstock.com/i/preview-2x/41/16/mardi-gras-vector-29294116.webp 3x, https://cdn.vectorstock.com/i/preview-1x/41/16/mardi-gras-vector-29294116.webp 2x, https://cdn.vectorstock.com/i/preview-lt/41/16/mardi-gras-vector-29294116.webp 1x">
+								<source type="image/jpeg" media="(min-width: 1047px)" srcset="https://cdn.vectorstock.com/i/preview-2x/41/16/mardi-gras-vector-29294116.jpg 2x, https://cdn.vectorstock.com/i/preview-1x/41/16/mardi-gras-vector-29294116.jpg 1.5x">
+								<img loading="lazy" src="./select2_files/mardi-gras-vector-29294116.jpg" data-id="29294116" data-title="mardi gras" data-ratio="1" alt="Mardi gras vector" style="">
+							</picture>
+						</a>
+					</div></figure>
+				</div>
+				<div class="gallery small more">
+					<ul>
+						<li data-id="1807868" data-title="Bush flowers vector image" data-src="https://cdn.vectorstock.com/i/thumbs/78/68/bush-flowers-vector-1807868.jpg" data-width="" data-height=""><a href="https://www.vectorstock.com/royalty-free-vector/bush-flowers-vector-1807868" title="bush flowers"><noscript><img src="https://cdn.vectorstock.com/i/thumbs/78/68/bush-flowers-vector-1807868.jpg" title="bush flowers" alt="bush flowers vector image"></noscript></a></li>
+						<li data-id="16267009" data-title="Colorful heart vector image" data-src="https://cdn.vectorstock.com/i/thumbs/70/09/colorful-heart-vector-16267009.jpg" data-width="" data-height=""><a href="https://www.vectorstock.com/royalty-free-vector/colorful-heart-vector-16267009" title="colorful heart"><noscript><img src="https://cdn.vectorstock.com/i/thumbs/70/09/colorful-heart-vector-16267009.jpg" title="colorful heart" alt="colorful heart vector image"></noscript></a></li>
+						<li data-id="20232114" data-title="Outline color icons set vector image" data-src="https://cdn.vectorstock.com/i/thumbs/21/14/outline-color-icons-set-vector-20232114.jpg" data-width="" data-height=""><a href="https://www.vectorstock.com/royalty-free-vector/outline-color-icons-set-vector-20232114" title="outline color icons set"><noscript><img src="https://cdn.vectorstock.com/i/thumbs/21/14/outline-color-icons-set-vector-20232114.jpg" title="outline color icons set" alt="outline color icons set vector image"></noscript></a></li>
+						<li data-id="20572172" data-title="Peace symbol vector image" data-src="https://cdn.vectorstock.com/i/thumbs/21/72/peace-symbol-vector-20572172.jpg" data-width="" data-height=""><a href="https://www.vectorstock.com/royalty-free-vector/peace-symbol-vector-20572172" title="peace symbol"><noscript><img src="https://cdn.vectorstock.com/i/thumbs/21/72/peace-symbol-vector-20572172.jpg" title="peace symbol" alt="peace symbol vector image"></noscript></a></li>
+						<li data-id="3301304" data-title="Romantic background with hearts vector image" data-src="https://cdn.vectorstock.com/i/thumbs/13/04/romantic-background-with-hearts-vector-3301304.jpg" data-width="" data-height=""><a href="https://www.vectorstock.com/royalty-free-vector/romantic-background-with-hearts-vector-3301304" title="romantic background with hearts"><noscript><img src="https://cdn.vectorstock.com/i/thumbs/13/04/romantic-background-with-hearts-vector-3301304.jpg" title="romantic background with hearts" alt="romantic background with hearts vector image"></noscript></a></li>
+						<li data-id="16266955" data-title="Valentine day vector image" data-src="https://cdn.vectorstock.com/i/thumbs/69/55/valentine-day-vector-16266955.jpg" data-width="" data-height=""><a href="https://www.vectorstock.com/royalty-free-vector/valentine-day-vector-16266955" title="valentine day"><noscript><img src="https://cdn.vectorstock.com/i/thumbs/69/55/valentine-day-vector-16266955.jpg" title="valentine day" alt="valentine day vector image"></noscript></a></li>
+						<li data-id="16266960" data-title="Valentine day vector image" data-src="https://cdn.vectorstock.com/i/thumbs/69/60/valentine-day-vector-16266960.jpg" data-width="" data-height=""><a href="https://www.vectorstock.com/royalty-free-vector/valentine-day-vector-16266960" title="valentine day"><noscript><img src="https://cdn.vectorstock.com/i/thumbs/69/60/valentine-day-vector-16266960.jpg" title="valentine day" alt="valentine day vector image"></noscript></a></li>
+						<li data-id="32492768" data-title="Lgbt rainbow flag background with heart vector image" data-src="https://cdn.vectorstock.com/i/thumbs/27/68/lgbt-rainbow-flag-background-with-heart-vector-32492768.jpg" data-width="" data-height=""><a href="https://www.vectorstock.com/royalty-free-vector/lgbt-rainbow-flag-background-with-heart-vector-32492768" title="lgbt rainbow flag background with heart"><noscript><img src="https://cdn.vectorstock.com/i/thumbs/27/68/lgbt-rainbow-flag-background-with-heart-vector-32492768.jpg" title="lgbt rainbow flag background with heart" alt="lgbt rainbow flag background with heart vector image"></noscript></a></li>
+						<li data-id="21664300" data-title="Jewels background vector image" data-src="https://cdn.vectorstock.com/i/thumbs/43/00/jewels-background-vector-21664300.jpg" data-width="" data-height=""><a href="https://www.vectorstock.com/royalty-free-vector/jewels-background-vector-21664300" title="jewels background"><noscript><img src="https://cdn.vectorstock.com/i/thumbs/43/00/jewels-background-vector-21664300.jpg" title="jewels background" alt="jewels background vector image"></noscript></a></li>
+						<li data-id="21664297" data-title="Cactuses icons set vector image" data-src="https://cdn.vectorstock.com/i/thumbs/42/97/cactuses-icons-set-vector-21664297.jpg" data-width="" data-height=""><a href="https://www.vectorstock.com/royalty-free-vector/cactuses-icons-set-vector-21664297" title="cactuses icons set"><noscript><img src="https://cdn.vectorstock.com/i/thumbs/42/97/cactuses-icons-set-vector-21664297.jpg" title="cactuses icons set" alt="cactuses icons set vector image"></noscript></a></li>
+						<li data-id="21664228" data-title="Red heart vector image" data-src="https://cdn.vectorstock.com/i/thumbs/42/28/red-heart-vector-21664228.jpg" data-width="" data-height=""><a href="https://www.vectorstock.com/royalty-free-vector/red-heart-vector-21664228" title="red heart"><noscript><img src="https://cdn.vectorstock.com/i/thumbs/42/28/red-heart-vector-21664228.jpg" title="red heart" alt="red heart vector image"></noscript></a></li>
+						<li data-id="20572174" data-title="Cartoon objects vector image" data-src="https://cdn.vectorstock.com/i/thumbs/21/74/cartoon-objects-vector-20572174.jpg" data-width="" data-height=""><a href="https://www.vectorstock.com/royalty-free-vector/cartoon-objects-vector-20572174" title="cartoon objects"><noscript><img src="https://cdn.vectorstock.com/i/thumbs/21/74/cartoon-objects-vector-20572174.jpg" title="cartoon objects" alt="cartoon objects vector image"></noscript></a></li>
+						<li data-id="21664222" data-title="Night landscape vector image" data-src="https://cdn.vectorstock.com/i/thumbs/42/22/night-landscape-vector-21664222.jpg" data-width="" data-height=""><a href="https://www.vectorstock.com/royalty-free-vector/night-landscape-vector-21664222" title="night landscape"><noscript><img src="https://cdn.vectorstock.com/i/thumbs/42/22/night-landscape-vector-21664222.jpg" title="night landscape" alt="night landscape vector image"></noscript></a></li>
+						<li data-id="1736271" data-title="A man in love valentines day vector image" data-src="https://cdn.vectorstock.com/i/thumbs/62/71/a-man-in-love-valentines-day-vector-1736271.jpg" data-width="" data-height=""><a href="https://www.vectorstock.com/royalty-free-vector/a-man-in-love-valentines-day-vector-1736271" title="a man in love valentines day"><noscript><img src="https://cdn.vectorstock.com/i/thumbs/62/71/a-man-in-love-valentines-day-vector-1736271.jpg" title="a man in love valentines day" alt="a man in love valentines day vector image"></noscript></a></li>
+						<li data-id="2033032" data-title="Valentines day seamless pattern vector image" data-src="https://cdn.vectorstock.com/i/thumbs/30/32/valentines-day-seamless-pattern-vector-2033032.jpg" data-width="" data-height=""><a href="https://www.vectorstock.com/royalty-free-vector/valentines-day-seamless-pattern-vector-2033032" title="valentines day seamless pattern"><noscript><img src="https://cdn.vectorstock.com/i/thumbs/30/32/valentines-day-seamless-pattern-vector-2033032.jpg" title="valentines day seamless pattern" alt="valentines day seamless pattern vector image"></noscript></a></li>
+						<li data-id="31697418" data-title="Rainbow seamless pattern vector image" data-src="https://cdn.vectorstock.com/i/thumbs/74/18/rainbow-seamless-pattern-vector-31697418.jpg" data-width="" data-height=""><a href="https://www.vectorstock.com/royalty-free-vector/rainbow-seamless-pattern-vector-31697418" title="rainbow seamless pattern"><noscript><img src="https://cdn.vectorstock.com/i/thumbs/74/18/rainbow-seamless-pattern-vector-31697418.jpg" title="rainbow seamless pattern" alt="rainbow seamless pattern vector image"></noscript></a></li>
+						<li data-id="15634657" data-title="Happy friendship day vector image" data-src="https://cdn.vectorstock.com/i/thumbs/46/57/happy-friendship-day-vector-15634657.jpg" data-width="" data-height=""><a href="https://www.vectorstock.com/royalty-free-vector/happy-friendship-day-vector-15634657" title="happy friendship day"><noscript><img src="https://cdn.vectorstock.com/i/thumbs/46/57/happy-friendship-day-vector-15634657.jpg" title="happy friendship day" alt="happy friendship day vector image"></noscript></a></li>
+						<li data-id="21947034" data-title="Valentines day background vector image" data-src="https://cdn.vectorstock.com/i/thumbs/70/34/valentines-day-background-vector-21947034.jpg" data-width="" data-height=""><a href="https://www.vectorstock.com/royalty-free-vector/valentines-day-background-vector-21947034" title="valentines day background"><noscript><img src="https://cdn.vectorstock.com/i/thumbs/70/34/valentines-day-background-vector-21947034.jpg" title="valentines day background" alt="valentines day background vector image"></noscript></a></li>
+						<li data-id="35140469" data-title="Background with confetti vector image" data-src="https://cdn.vectorstock.com/i/thumbs/04/69/background-with-confetti-vector-35140469.jpg" data-width="" data-height=""><a href="https://www.vectorstock.com/royalty-free-vector/background-with-confetti-vector-35140469" title="background with confetti"><noscript><img src="https://cdn.vectorstock.com/i/thumbs/04/69/background-with-confetti-vector-35140469.jpg" title="background with confetti" alt="background with confetti vector image"></noscript></a></li>
+						<li data-id="31697423" data-title="Lgbt rainbow flag background vector image" data-src="https://cdn.vectorstock.com/i/thumbs/74/23/lgbt-rainbow-flag-background-vector-31697423.jpg" data-width="" data-height=""><a href="https://www.vectorstock.com/royalty-free-vector/lgbt-rainbow-flag-background-vector-31697423" title="lgbt rainbow flag background"><noscript><img src="https://cdn.vectorstock.com/i/thumbs/74/23/lgbt-rainbow-flag-background-vector-31697423.jpg" title="lgbt rainbow flag background" alt="lgbt rainbow flag background vector image"></noscript></a></li>
+						<li class="more"><div><a href="https://www.vectorstock.com/royalty-free-vectors/vectors-by_meowu" rel="nofollow"><span class="lrg">More Images…</span><span class="sml">More</span></a></div></li>
+					</ul>
+				</div>
+			</div>
+			<div id="group-keywords" class="group">
+				<h6><span class="icon"></span><strong>Related Searches</strong></h6>
+				<ul>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/violet-vectors">Violet</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/heart-vectors">Heart</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/purple-vectors">Purple</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/big-vectors">Big</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/color-vectors">Color</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/logo-vectors">Logo</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/realistic-vectors">Realistic</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/trendy-vectors">Trendy</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/day-vectors">Day</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/happy-vectors">Happy</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/love-vectors">Love</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/shape-vectors">Shape</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/illustration-vectors">Illustration</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/sign-vectors">Sign</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/symbol-vectors">Symbol</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/vector-vectors">Vector</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/abstract-vectors">Abstract</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/decorative-vectors">Decorative</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/design-vectors">Design</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/fashion-vectors">Fashion</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/graphic-vectors">Graphic</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/icon-vectors">Icon</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/isolated-vectors">Isolated</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/modern-vectors">Modern</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/passion-vectors">Passion</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/romance-vectors">Romance</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/romantic-vectors">Romantic</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/trend-vectors">Trend</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/ultra-vectors">Ultra</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/valentine-vectors">Valentine</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/web-vectors">Web</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/wedding-vectors">Wedding</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/white-vectors">White</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/year-vectors">Year</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/3d-vectors">3d</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/amour-vectors">Amour</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/art-vectors">Art</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/button-vectors">Button</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/decoration-vectors">Decoration</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/element-vectors">Element</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/emblem-vectors">Emblem</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/emotion-vectors">Emotion</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/gift-vectors">Gift</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/health-vectors">Health</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/holiday-vectors">Holiday</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/label-vectors">Label</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/lover-vectors">Lover</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/marriage-vectors">Marriage</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/mesh-vectors">Mesh</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/silhouette-vectors">Silhouette</a></li>
+					<li><a href="https://www.vectorstock.com/royalty-free-vectors/style-vectors">Style</a></li>
+				</ul>
+			</div>
+		</section>
+	</article>
+
+	<!-- Footer -->
+	<footer>
+		<div>
+		<div class="column c1">
+			<nav class="company">
+				<h4>VectorStock</h4>
+				<ul>
+					<li><a href="https://www.vectorstock.com/" title="Home">Home</a></li>
+					<li class="sel"><a href="https://www.vectorstock.com/free-vectors" title="Free Vectors">Free Vectors</a></li>
+					<li class="sel"><a href="https://www.vectorstock.com/royalty-free-vectors" title="All Vectors">All Vectors</a></li>
+				</ul>
+				<ul>
+					<li><a href="https://www.vectorstock.com/what-is-a-vector" title="What is a Vector?">What is a Vector?</a></li>
+				</ul>
+				<ul>
+					<li class="sel"><a href="https://www.vectorstock.com/faq" title="Frequently Asked Questions"><span class="long">Frequently Asked Questions</span><span class="short">FAQs</span></a></li>
+					<li><a href="https://www.vectorstock.com/faq/members/terms-of-use" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+					<li class="sel"><a href="https://www.vectorstock.com/contact" title="Contact Us">Contact Us</a></li>
+				</ul>
+			</nav>
+		</div>
+		<div class="column c2">
+			<nav class="account">
+				<h4><span class="title">Account</span><span class="icon"></span></h4>
+					<ul>
+						<li><a href="https://www.vectorstock.com/signup" title="Join Now">Join Now</a></li>
+						<li><a href="https://www.vectorstock.com/pricing" title="Pricing">Pricing</a></li>
+						<li><a href="https://www.vectorstock.com/?signup=1&amp;contributor=1" title="Contributor Sign Up">Contributor Sign Up</a></li>
+						<li><a href="https://www.vectorstock.com/faq/artists/why-sell-at-vectorstock" title="Contributor FAQ">Contributor FAQ</a></li>
+					</ul>
+			</nav>
+			<nav class="languages">
+				<h4>Languages</h4>
+				<ul>
+					<li><a href="https://www.vectorstock.com/royalty-free-vector/violet-color-big-heart-vector-21946859" target="_blank" rel="nofollow"><span class="title">English</span></a></li>
+					<li><a href="https://www.vectorstock.com/de/lizenzfreie-vektor/violet-color-big-heart-vektor-21946859" target="_blank" rel="nofollow"><span class="title">German</span></a></li>
+				</ul>
+			</nav>
+		</div>
+		<div class="column c3">
+			<nav class="social">
+				<h4>Social</h4>
+				<ul>
+					<li class="facebook sel"><a href="https://www.facebook.com/VectorStock" target="_blank" rel="noreferrer"><span class="title">Facebook</span><span class="icon"></span></a></li>
+					<li class="pinterest sel"><a href="https://pinterest.com/vectorstock/" target="_blank" rel="noreferrer"><span class="title">Pinterest</span><span class="icon"></span></a></li>
+					<li class="twitter sel"><a href="https://x.com/VectorStock" target="_blank" rel="noreferrer"><span class="title">X</span><span class="icon"></span></a></li>
+				</ul>
+			</nav>
+			<div class="signoff">
+				<h5><a href="https://www.vectorstock.com/" title="VectorStock®">VectorStock®</a></h5>
+				<p>VectorStock and the VectorStock logo are registered trademarks of VectorStock Media.<br>
+				© 2024. <span>All Rights Reserved.</span></p>
+			</div>
+		</div>
+		</div>
+	</footer>
+
+
+	<script type="text/javascript" nonce="s+Qq6FnI7qPR7epcXeK/jF3ButKXVpKyQU1C2+LsBmQ=">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"02e09611df","applicationID":"156179534","transactionName":"ZV0ENRYCC0RYAkVbDVwXJRQXFwpaFhNeSwNeTB9MAhEAUhQXVFEWXUpJFw0GEg==","queueTime":0,"applicationTime":58,"atts":"SRoHQ14YGEo=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+	<script id="_a_admitag" src="./select2_files/admitag.min.js" defer=""></script><script nonce="s+Qq6FnI7qPR7epcXeK/jF3ButKXVpKyQU1C2+LsBmQ=" type="text/javascript">try{var cookie_name="deduplication_cookie",days_to_store=90,deduplication_cookie_value="admitad",channel_name="utm_source";getSourceParamFromUri=function(){return(new RegExp(channel_name+"=([^&]+)").exec(document.location.search)||[])[1]||""},getSourceCookie=function(){var e=document.cookie.match(new RegExp("(?:^|; )"+cookie_name.replace(/([\.$?*|{}\(\)\[\]\\/\+^])/g,"\$1")+"=([^;]*)"));return e?decodeURIComponent(e[1]):void 0},setSourceCookie=function(){var e=getSourceParamFromUri(),o=new URL(document.location).searchParams;if(!o.get(channel_name)&&o.get("gclid"))e="advAutoMarkup";else if(!e)return;var n=new Date(60*days_to_store*60*24*1e3+ +new Date),a=cookie_name+"="+e+"; path=/; expires="+n.toGMTString();document.cookie=a,document.cookie=a+"; domain=."+location.host},setSourceCookie();}catch(e){}</script>
+	<script id="profitwell-js" data-pw-auth="1051055e2c0cbe1da2ab7ca0abe9bc55" nonce="s+Qq6FnI7qPR7epcXeK/jF3ButKXVpKyQU1C2+LsBmQ=">
+	$(document).ready(function() {(function(i,s,o,g,r,a,m){i[o]=i[o]||function(){(i[o].q=i[o].q||[]).push(arguments)}; a=s.createElement(g);m=s.getElementsByTagName(g)[0];a.async=1;a.src=r+'?auth='+s.getElementById(o+'-js').getAttribute('data-pw-auth');m.parentNode.insertBefore(a,m);})(window,document,'profitwell','script','https://public.profitwell.com/js/profitwell.js');
+	profitwell('start', {});});</script><iframe allow="join-ad-interest-group" data-tagging-id="G-QBXWNL4G7Q" data-load-time="1721396922260" height="0" width="0" src="./select2_files/rul.html" style="display: none; visibility: hidden;"></iframe><iframe allow="join-ad-interest-group" data-tagging-id="AW-1056033416" data-load-time="1721396922296" height="0" width="0" src="./select2_files/1056033416.html" style="display: none; visibility: hidden;"></iframe>
+
+
+
+</body></html>

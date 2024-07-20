@@ -1,0 +1,125 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background: #f0f0f0;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+header {
+    background: linear-gradient(90deg, #ff8c00, #ff0080);
+    color: #fff;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #ff007f 3px solid;
+    text-align: center;
+}
+
+header h1 {
+    margin-top: 0;
+    font-size: 36px;
+}
+
+header p {
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+header nav {
+    margin-top: 10px;
+}
+
+header nav ul {
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+header nav ul li {
+    padding: 0 20px;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+    transition: color 0.3s;
+}
+
+header nav ul li a:hover {
+    color: #ff007f;
+}
+
+section {
+    padding: 60px 0;
+}
+
+section#about {
+    background: #ffeb3b;
+    text-align: center;
+}
+
+section#projects {
+    background: #4caf50;
+    text-align: center;
+    color: #fff;
+}
+
+section#projects .project {
+    background: rgba(255, 255, 255, 0.1);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    transition: background 0.3s;
+}
+
+section#projects .project:hover {
+    background: rgba(255, 255, 255, 0.2);
+}
+
+section#contact {
+    background: #2196f3;
+    text-align: center;
+    color: #fff;
+}
+
+section#contact ul {
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+section#contact ul li {
+    padding: 0 10px;
+}
+
+section#contact ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    transition: color 0.3s;
+}
+
+section#contact ul li a:hover {
+    color: #ffeb3b;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+footer p {
+    margin: 0;
+}
